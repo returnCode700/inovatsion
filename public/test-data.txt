@@ -2185,5 +2185,4 @@ Tasodifiy ishlaydi
 Internetga bog‘liq
 =====
 Grafik tizim
-
 +++++
