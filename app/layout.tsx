@@ -3,7 +3,7 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'Innovatsiya Integratsiya — Test',
+  title: 'Ornatilgan Tizimlar — Test',
   description: 'Bilimingizni sinab ko\'ring — 4 xil rejim',
   generator: 'v0.app',
   icons: {
