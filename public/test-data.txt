@@ -1,2548 +1,2189 @@
-Didaktika nimani o‘rgatadi?
-====
-#Ta‘lim jarayonining umumiy qonuniyatlarini
-====
-Tarbiya jarayonining umumiy qonuniyatlarini
-====
-Tarbiya metodlarini
-====
-Xalq ta‘lim tizimini 
-++++
-Didaktika so‘zining lug‘aviy ma‘nosi qaysi javobda to‘g‘ri berilgan?
-====
-#O‘rgatuvchi
-====
-Bola yetaklovchi
-====
-Zehn va qobiliyat
-====
-Aqlga qayta ishlov berish
-++++ 
-O‘quv materialini idrok qilish, tushunish, mustahkamlash, hamda amalda qo‘llash qaysi jarayonning bosqichlari?
-====
-#Bilimlarni o‘zlashtirish jarayonining
-====
-Ta‘lim jarayonining
-====
-Bilish jarayonining
-====
-Takrorlashning
-++++ 
-Ta‘lim mazmuniga qaysi javobda to‘g‘ri ta‘rif berilgan?
-====
-#O‘quvchilarni egallab olishi lozim bo‘lgan, bilim, ko‘nikma va malakalarning aniq belgilangan doirasi
-====
-Ijtimoiy ishlab chiqarishning eng zarur ehtiyojlari doirasida o‘z aksini topadi
-====
-Davlatning xalq ta‘limi va muayyan turdagi o‘quv yurti oldiga qo‘yadagi vazifalarida namoyon bo‘ladi
-====
-Maktabda belgilab beriladigan ta‘lim-tarbiya jarayoni 
-++++
-O‘quv rejasining mohiyati qaysi javobda berilgan?
-====
-#Ta‘lim mazmunini belgilovchi hujjat
-====
-Har bir o‘quv fanining o‘qitish uchun ajratilgan bilim, hajmi, tizimi va g‘oyaviy-siyosiy yo‘nalishini aniqlab beradigan davlat hujjati
-====
-O‘qitiladigan fanlar, o‘qitish uchun ajratilgan soatlar va o‘quv yilining tuzilishini belgilab beruvchi davlat hujjati
-====
-Tegishli fanga oid ilmiy bilim asoslarini dasturga va didaktika talablariga muvofiq ravishda bayon qiluvchi hujjat
-++++ 
-Ta‘lim qoidalari qaysilar?
-====
-#Hamma javoblar to‘g
-====
-Ilmiylik va onglilik
-====
-Izchillik va muntazamlilik
-====
-Tarbiyalovchilik, ko‘rsatmalilik va amaliyot bilan bog‘liqlik 
-++++
-O‘qitish usullari qaysi javobda to‘g‘ri ko‘rsatilgan?
-====
-#Og‘zaki, ko‘rgazmali, amaliy, muammoli izlanish, reproduktiv
-====
-Ko‘rgazmali, o‘qtirish, nasixat, namuna, o‘rgatish, odatlantirish
-====
-Amaliy mehnat, jismoniy, aqliy, ekologik, iqtisodiy, amaliy
-====
-Estetik, grafik tushuncha, ta‘riflar, qoidalar chiqarish
-++++ 
-Ta‘limning og‘zaki usulining turlari qaysi javobda berilgan?
-====
-#O‘qituvchining hikoyasi, suhbat va maktab ma‘ruzasi
-====
-Ko‘rgazmali, texnika vositalari, kuzatish
-====
-Muammoli vaziyat yaratish, testlar, amaliy mashg‘ulot
-====
-Mashqlar, grafik ishlar, ko‘rgazmali, ekskursiya
-++++ 
-Namoyish etish, kuzatish va ekskursiya o‘qitishning qaysi usuliga mansub?
-====
-#Amaliy 
-====
-Og‘zaki
-====
-Mustaqil ish
-====
-Ko‘rgazmali 
-++++
-O‘qitishning amaliy usuli qaysi javobda to‘g‘ri ko‘rsatilgan?
-====
-#Og‘zaki, yozma mashqlar, frontal tajribalar, grafik ishlar
-====
-Laboratoriya ishlari, namoyish qilish, ko‘rsatish, kuzatish
-====
-Kuzatish, ko‘rsatish, suhbat, ma‘ruza, hikoya
-====
-Namoyish etish, illyustratsiya va ekskursiya, muammoli o‘qitish 
-++++
-Qaysi javobda sinfga to‘g‘ri ta‘rif berilgan?
-====
-#Yoshi va bilimi jihatidan bir xil bo‘lgan ma‘lum miqdordagi o‘quvchilar guruhi
-====
-O‘quv ishlarining asosiy tashkiliy shakl, o‘quvchilar bilan ishlash
-====
-O‘quv ishlarining markaziy qismi, bolalar guruhi
-====
-Bilim darajasi bir xil bo‘lgan o‘quvchilar guruhi 
-++++
-Darsning qanday turlari mavjud?
-====
-#Hamma javoblar to‘g‘ri
-====
-Aralash dars
-====
-Kirish darslari va yangi bilimlarni bayon qilish
-====
-O‘tilgan materiallarni mustahkamlash va takroriy-umumlashtiruvchi darslar
-++++ 
-Uy vazifasini so‘rash, yangi materiallarni bayon qilish, yangi materiallarni mustahkamlash, uy vazifalarini tekshirish qaysi dars turiga mansub?
-====
-#Takrorlash-umumlashtirish
-====
-Yangi bilimlarni bayon qilish
-====
-Aralash dars
-====
-Bilimlarni mustahkamlash
-++++ 
-Yangi bilimlarni bayon qilish, yangi bilimlarni mustahkamlash, yangi bilimlar ustida mashq qilish qaysi dars turiga mansub
-====
-#Yangi bilimlar berish darsi
-====
-Aralash
-====
-O‘tilgan materialni mustahkamlash
-====
-Takrorlash-umumlashtirish 
-++++
-Pedagogika qanday fan?
-====
-#inson ta'lim va tarbiyasi haqidagi fan
-====
-Ta‘lim haqidagi fan
-====
-Ma‘lumot haqidagi fan
-====
-Bilim haqidagi fan 
-++++
-Birinchi bo‘lib kim sinf-dars tizimini kashaf etgan?
-====
-#Ya A Komenskiy
-====
-Forobiy
-====
-Marg‘iloniy
-====
-Ruvinskiy
-++++ 
-Differentsiyalash tushunchasini qaysi tushuncha bilan teng deb qullaymiz?
-====
-#Ta‘limni tabaqalashtirish
-====
-Ta‘limni optimallashtirish
-====
-Ta‘limni qulaylashtirish
-====
-Hamma javoblar to‘g‘ri 
-++++
-Ma‘lum o‘qitish usulini muvaffaqiyatli amalga oshirmoq uchun zarur bo‘lgan yordamchi o‘quv materiallari-asbob, qurol, apparat va boshqa shu kabilar qaysi terminga mansub?
-====
-#Vosita
-====
-Usul
-====
-Uslub
-====
-Ta‘lim
-++++ 
-O‘rganilgan bilim kecha o‘rganilgan bilimni mustahkamlaydi va ertaga o‘rganiladigan bilimga zamin hozirlaydi Bu ta‘limning qaysi qoidasiga mos keladi?
-====
-#Ta‘limning tizimli va izchil bo‘lishi
-====
-Ta‘limning ilmiy bo‘lish qoidasi
-====
-Ta‘lim va tarbiyaning birligi qoidasi
-====
-Ta‘limning o‘quvchi yoshiga mos bo‘lishi 
-++++
-O‘quvchilarni ijodiy fikrlashga va ijodiy qobiliyatlarini rivojlantirishga xizmat qiladigan o‘qitish metodlarini aniqlang?
-====
-#Muammoli tizim
-====
-Hikoya
-====
-Namoyish qilish va suhbat
-====
-Tushuntirish va suhbat 
-++++
-Ta‘lim mazmuni nimalarda ifodalanadi?
-====
-#DTS, o‘quv rejasida, dasturi va darsliklarida
-====
-Ta‘lim metodlari, vosita va qo‘llanmalarda
-====
-Ta‘lim printsiplarida, o‘qituvchining amaliy ishida
-====
-Ta‘lim shaklida, dars tuzilishi, tipi va qo‘llanishida 
-++++
-Komenskiyning qaysi asari ta‘lim rivojlantirishga g‘oyat katta hissa qo‘shdi?
-====
-#Buyuk didaktika
-====
-Ustodi avval
+O‘rnatilgan tizim (Embedded System) nima?
 =====
-Bolalarga jonim fido
-====
-Yengil adabiyot 
-++++
-O‘zbekistonda ta‘lim nazariyasining rivojiga xissa qo‘shgan pedagog qaysi javobda to‘g‘ri berilgan?
-====
-#A Avloniy
-====
-X Niyoziy
-====
-S Rasuliy
-====
-U.Nosir
-++++ 
-Bilish nimadan boshlanadi?
-====
-#Sezishdan
-====
-Idrokdan
-====
-Ko‘rishdan
-====
-Tushunishdan 
-++++
-Quyida keltirilgan mutafakkirlardan kimlar inson kamolotini ilm-fan va tarbiyada deb bilganlar?
-====
-#Forobiy, Beruniy, ibn Sino, Navoiy Ushinskiy, Forobiy, Beruniy, Pestalotstsi
-====
-Ushinskiy, Forobiy, Beruniy, Pestalotstsi
-====
-Navoiy, Xamza, Avloniy, Furqat
-====
-Komenskiy, ibn Sino, Farg‘oniy, Zavqiy
-++++
-Tarbiya jarayoni qanday jarayon?
-====
-#Tarbiyachi va tarbiyalanuvchi faoliyatlarini o‘z ichiga olgan ikki yoqlama jarayon
-====
-Tarbiyachi va tarbiyalanuvchi qatnashadigan jarayon
-====
-Tarbiyachi bevosita tashkil etadigan, ko‘p qirrali qatnashadigan jarayon
-====
-Ta‘lim-tarbiya ishini muvaffaqiyatli amalga oshiradigan jarayon 
-++++
-«Metod» so‘zining lug‘aviy ma‘nosini ko‘rsating?
-====
-#«Metod» grekcha so‘z bo‘lib, yo‘l, usul demakdir
-====
-«Metod» yunoncha so‘z bo‘lib, «uslubiyat» ma‘nosini bildiradi
-====
-«Metod» lotincha so‘z bo‘lib, «vositachi» ma‘nosini bildiradi
-====
-«Metod» inglizcha so‘z bo‘lib, «yul ko‘rsatuvchi» degan ma‘noni bildiradi 
-++++
-Tarbiyaning maqsadi nima?
-====
-#Barkamol, har tomonlama yetuk insonni tarbiyalash
-====
-Insonni tarbiyalash
-====
-Insonni bilimli qilish
-====
-Insonga rejali va muntazam ta‘sir ko‘rsatish 
-++++
-Huquqiy tarbiyaning mazmunini ayting?
-====
-#Fuqarolarda yuqori huquq madaniyatini shakllantirish, ularni o‘z huquqlarini tanishga, o‘zgalar huquqini himoya qilish, hurmatlash, jamiyat miqyosidagi qoida va normalarni bilishga o‘rgatadi
-====
-Jamiyatdagi insonlararo munosabatlarni tartibga solib turuvchi, insonlar o‘rnini, burchini elgilab beruvchi qonunlar majmui
-====
-Insonlarni Konstitutsiyaviy huquq va burchlarini anglab olishga yordam berish
-====
-Huquqiy normalarni va qoidalarni, huquqiy qonunlarni o‘rgatadi 
-++++
-Ekologik tarbiya nima?
-====
-#Ekologik tarbiya isnonning atrof-muhitga nisbatan munosabatini tarbiyalaydi
-====
-Tabiat va jamiyat munosabatlariga oid tushunchalar majmui
-====
-Tabiat haqidagi bilimlar majmui
-====
-Ekologik tarbiya insonni jismoniy va aqliy tarbiyasiga ta‘sir etadi 
-++++
-Iqtisodiy tarbiya o‘quvchilarda qanday hislatlarni tarkib toptiradi?
-====
-#Tejamkorlik, mehnatsevarlik, tashabbuskorlik, ishbilarmonlik, iqtisodiy xisob-kitob qilish kabilarni
-====
-Umuminsoniy qadriyatlarni, odob, axloq, ishbilarmonlik, kasb odobi kabilarni
-====
-Milliy qadriyatlarni o‘rganish asosida o‘z-o‘zini anglash, Vatan taraqqiyoti uchun mehnat qilish
-====
-Vatanga muhabbatni, birgalikda ish yuritishni 
-++++
-Ekologik tarbiyaning manbalariga nimalar kiradi?
-====
-#Tabiat, yer suv, havo
-====
-Yer, havo, tuproq
-====
-Tabiat, jamiyat
-====
-Yer, suv 
-++++
-Ekologik tarbiyaning vazifasi nimalardan iborat?
-====
-#Tabiat boyliklarini tejab-tergashga, tabiatni muhofaza qilishga o‘rgatish
-====
-Yo‘qolib borayotgan boyliklarni asrash, yer, suv, havoni tozalash
-====
-O‘simliklar dunyosini asrash, tabiatga munosabat
-====
-Atrof-muhitga ijobiy munosabatni tarbiyalash 
-++++
-Mehnat tarbiyasining asosiy maqsadi nima?
-====
-#Bolalar mehnatga nisbatan biror bir munosabatni tarkib toptirish, ularning qobiliyatini rivojlantirish va hayotga amaliy kasb tanlashga tayyorlashdan iborat
-====
-Mehnat ko‘nikmalarini shakllantirish, kasb tanlashga o‘rgatish, mehnatga amaliy tayyorlash
-====
-Mehnat malakalarini shakllantirish, kasb-hunarga tayyorlash, mehnat asosida do‘stlik-o‘rtoqlikni tarbiyalash
-====
-Kasb-hunar o‘rgatish, mehnatga munosabatni shaklantirish 
-++++
-O‘qituvchi mustaqil ish daftarini tarqatar ekan, ilgari bo‘sh o‘zlashtiruvchilar safida bo‘lgan Olimjonning muvaffaqiyatini alohida ta‘kidladi Qo‘llanilgan tarbiyaviy usulini aniqlang?
-====
-#Rag‘batlantirish
-====
-Tanbeh berish
-====
-Jazolash
-====
-Mukofotlash, ma‘qullash 
-++++
-Keltirilgan javoblardan o‘quvchilarning bilim egallash etaplarini ko‘rsating?
-====
-#O‘quv materialini idrok qilish, anglash, mustahkamlash va amaliyotga tatbiq qilish
-====
-O‘qish o‘rganish
-====
-Bilim, ko‘nikma va malakalar
-====
-Ta‘lim, tarbiya, ma‘lumot olish 
-++++
-O‘quv materialini idrok qilishga qaysi manbalardan foydalaniladi?
-====
-#Ko‘rsatish, kuzatish, taqqoslash
-====
-Sezgi, idrok, tasavvurlar
-====
-Diqqat, xotira, tafakkur
-====
-Analiz, sintez, abstraktsiya 
-++++
-Quyidagilardan qaysilari o‘quv materialini anglashga yordam beradi?
-====
-#Tafakkur jarayonlari (analiz, sintez, taqqoslash, abstraktsiya, induktiv, va diduktiv xulosalar chiqarish)
-====
-Sezgi, idrok, tasavvurlar
-====
-Ko‘rsatish, kuzatish, amaliy ishlar
-====
-Laboratoriya ishlari, turlari, tajribalar
-++++ 
-Ta‘limning ko‘rgazmalilik metodlari ifodalangan javobni aniqlang.
-====
-Illustratsiya va demonstratsiya 
-====
-Hikoya, darslik va kitoblar bilan ishlash
-====
-Kuzatish, namoyish qilish, ekskursiya
-====
-Reproduktiv metod
-++++ 
-O‘quv dasturida nimalar aksini topgan bo‘ladi?
-==== 
-#O‘quv yili davomida har qaysi sinfda alohida predmetlar bo‘yicha o‘quvchilarga beriladigan ilmiy bilim ko‘nikma va malakalarning hajmi belgilab beriladigan, o‘quv rejasi asoslanib tuziladigan hujjat Har bir sinfda o‘qitiladigan o‘quv predmetlar soni
-====
-O‘quv rejasining kengaytirilgan tahlili
-====
-Ma‘lum predmet yuzasidan o‘quvchi o‘zlashtirishi lozim bo‘lgan bilim, ko‘nikma va malakalar ta‘riflangan o‘quv qo‘llanmasi 
-++++
-Sinfdan tashqari ishlar qaysi o‘rinda to‘g‘ri ta‘riflangan?
-====                                   
-#Darsdan tashqari vaqtda o‘qituvchilar yoki chetdan taklif qilingan mutaxassislarning o‘quvchilar bilan olib boradigan turli xil ta‘lim-tarbiyaviy ishlar
-====
-O‘qituvchilar o‘quvchilarning bo‘sh paytlarida tashkil qiladigan o‘quv tarbiyaviy ishlar
-====
-Darsdan so‘ng belgilangan kunlarda o‘qituvchilar o‘quvchilar qiziqishiga asosan tashkil qiladigan to‘garak ishlari
-====
-O‘quvchini har tomonlama rivojlantirishga xizmat qiluvchi darsdan bo‘sh vaqtlarida mutaxassis o‘qituvchilar olib boradigan o‘quv-sog‘lomlashtirish tadbirlari 
-++++
-O‘tmish madaniy merosimizni o‘rganishga da‘vat etuvchi 1-Prezident I A Karimovning asari nomini aniqlang?
-====
-#Tarixiy xotirasiz kelajak yo‘q
-====
-Bizdan obod Vatan qolsin
-====
-Ogohlikka da‘vat
-====
-Vatan sajdagoh kabi muqaddasdir 
-++++
-Abu Nasr Forobiy qaysi asarida komil inson tarbiyaviy sifatlarini ko‘rsatib bergan?
-====
-#Fozil odamlar shahri
-====
-Musiqa haqida katta kitob
-====
-Qonuni Mas‘uriy
-====
-«Metofizika»ga sharx 
-++++
-Abu Nasr Forobiy qachon va qaerda tug‘ilgan?
-====
-#Milodiy 873 yilda Toshkent yaqinidagi Forob qishlog‘ida
-====
-Milodiy 870 yilda Xirotda
-====
-Milodiy 870 yilda Farg‘onada
-====
-Xijriy 320 yilda Buxoroda 
-++++
-Qadimgi Xorazmda qanday din va ma‘rifiy yodgorlik vujudga kelgan? 
-====
-#Zardushtiylik dini va «Avesto»
-====
-Moniylik dini ва «Avesto»
-====
-Kubraviya va «Xadis»
-====
-Naqshbandiya ta‘limoti va «Qur‘on» 
-++++
-Ibn Sinoning bolaga ta‘lim-tarbiya berishga doir fikrlari bayon etilgan asarlarini aniqlang?
-====
-#«Tib qonunlari», «Tadbiri manozil», «Donishnoma»
-====
-«Tib qonunlari», «Xidoyat»
-====
-«Kitob-al Qonuni fit-tib», «Kulunj»
-====
-«Donishnoma», «Risolatul tayr» 
-++++
-Ibn Sino tavsiya etgan ta‘limni tashkil etish shaklini aniqlang?
-====
-#Jamoa tarzida
-====
-Yakka tarzda
-====
-Qo‘rqitish vositasida
-====
-Brigada shaklida 
-++++
-Kaykovusning eng yirik pedagogik merosi hisoblangan asari nomini aniqlang?
-====
-#«Qobusnoma»
-====
-Farzand tarbiya qilmoq zikrida
-====
-Suxandonlik haqida
-====
-Ota-ona haqqini bilmak zikrida 
-++++
-Yusuf Xos Hojibning pedagogik asarini aniqlang?
-====
-#«Qutadg‘u bilig»
-====
-«Donishnoma»
-====
-«Onalar maktabi»
-====
-«Eski maktab» 
-++++
-Abu Rayhon Beruniyning o‘qitish haqidagi fikrlarini aniqlang?
-====
-#Fanlarni almashtirib o‘qitish kerak
-====
-Bolalarni qo‘rqitib o‘qitish kerak
-====
-Avval ovqatlantirib, so‘ngra o‘qitish kerak
-====
-Kun buyi bitta fanni o‘qitish keak 
-++++
-Al-Xorazmiyning qaysi asari yirik bir fanning nomiga aylandi?
-====
-#«Al-Kitob-al-muxtasar fi-xisob al-jabr val-muqobala»
-====
-«Kitob at-tarix»
-====
-«Jo‘g‘rofiya»
-====
-«Negizlar» 
-++++
-Zardushtiylik ta‘limotiga ko‘ra bolalarga ta‘lim-tarbiya berish necha yoshdan boshlanadi?
-====
-#7 yoshdan
-====
-5 yoshdan
-====
-6 yoshdan
-====
-4 yoshdan 
-++++
-Zardushtiylik ta‘limotida olg‘a surilgan 3 asosiy xislatni ayting?
-====
-#Ezgu fikr, ezgu so‘z, ezgu amal
-====
-Yaxshilik va yomonlik
-====
-Odoblilik, mehnatsevarlik, insonparvarlik
-====
-Gunoh, savob, uvol 
-++++
-Qadimgi Yunoniston va Rimda yashab, o‘z asarlarida ilk pedagogik g‘oyalarni olg‘a surgan olimlar kimlar edi?
-====
-#Demokrit, Aflotun, Arastu, Kvintilian
-====
-Gippokrat, Tomas Mor, Xampanella
-====
-Ptolomey, Kvintilian, Bernard Shou
-====
-Ernest Xeminguey, Stendal, Motsart 
-++++
-Qadimgi Yunoniston va Rimda faoliyat ko‘rsatgan maktablar nomini aniqlang?
-====
-#Palestra, Agella, Gimnastiy, Efeblar maktablari
-====
-Ritorlar, ritsarlar, monastir maktablari
-====
-Cherkov maktablari
-====
-Ko‘pkurash maktablari 
-++++
-Eng qadimgi turkiy yozma pedagogik yodgorlik «Devonu lug‘otit turk»ning muallifi kim?
-====
-# Mahmud Qoshg‘ariy
-====
-Ahmad Yassaviy
-====
-Ahmad Yugnakiy
-====
-Salohiddin Toshkandiy 
-++++
-Ahmad Yassaviy o‘zining O‘rta Osiyodagi ilk tasavvufiy ta‘limoti qaysi asarida mufassal bayon etgan?
-====
-#«Hikmat» («Devoni hikmat»)
-====
-«Yassaviya»
-====
-«Hikmatnoma»
-====
-Kitob at-tarix» 
-++++
-Xoja Bahovuddin Naqshbandiy olg‘a surgan Naqshbandiya taraqqiyoti uning qanday so‘zlarida o‘z ifodasini topgan?
-====
-#Ko‘ngling Allohda, qo‘ling ishda bo‘lsin
-====
-Tаvba va tazarru qilib turish
-====
-Luqmai halol qoidasiga amal kilish
-====
-Shariatga rioya qilish 
-++++
-Ibn Sino ota-onalarga bola tarbiyasini qachondan boshlashni tavsiya etadi?
-====
-#Ona qornida homila paydo bo‘lishi bilan
-====
-Bola tug‘ilgan kundan boshlab
-====
-Bola olti oylik bo‘lgach
-====
-Bola bir yoshga to‘lgach 
-++++
-Mirzo Ulug‘bekning qaysi asarida 1018 yulduzning holati va harakati kursatib berilgan?
-====
-#«Ziji Ko‘ragoniy»
-====
-«Dorul-ilm»
-====
-«CHil ustun»
-====
-«Risolai isboti vojib» 
-++++
-«Agar ota uning (ya‘ni bolaning) jismini jismoniy jihatdan tarbiyalashga sababchi bo‘lsa, muallim uning ma‘naviy tarbiyasini kamolotga yetishuviga sababchidir» Bu fikrni kim va qaysi asarida aytgan?
-====
-#Jaloliddin Davoniy «Axloqi Jaloliy»da
-====
-Abu Nasr Forobiy «Fozil odamlar shahri»da
-====
-Abu Rayhon Beruniy «Xindiston»da
-====
-Alisher Navoiy «Hazoyinul maoniy»da 
-++++
-Alisher Navoiyning tarbiyaning maqsadi haqidagi fikrlarini ko‘rsating?
-====
-#Xalqparvar, ilmli, yaxshi fazilatli qilib tarbiyalash
-====
-Ilmli va jismoniy barkamol bo‘lish
-====
-Qayta tarbiyalab, yaxshi fazilatga o‘rgatish
-====
-Shafqatsizlikka o‘rgatish 
-++++
-Alisher Navoiyning pedagogik ahamiyatga molik asarlari nomini aniqlang?
-====
-#Mahbub ul qulub, Hayratul Abror
-====
-Xamsa
-====
-Hazoyinul maoniy
-====
-Nazmul javohir 
-++++
-«Imkon boricha bolaga yaxshi ta‘lim-tarbiya berishga intilish lozim, toki u ijobiy xususiyatlarni o‘zlashtirsin va yaramas harakatlardan o‘zini muhofaza kilsin» Ushbu pedagogik fikrlar muallifini aniqlang?
-====
-#Az-Zamahshariy
-====
-Abu Ali ibn Sino
-====
-Xoja Baxovuddin Naqshbandiy
-====
-Kaykovus 
-++++
-Xusayn Voiz Koshifiyning pedagogik qarashlari bayon etilgan asarlarni aniqlang?
-====
-#«Axloqi Muxsiniy»
-====
-«Anvori Suxayliy»
-====
-«Futuvvatnomai sultoniy»
-====
-«Risolai Xotamiya» 
-++++
-Samarqandda Ulug‘bek qurdirgan madrasa mudarrisi qilib kim tayinlangan?
-====
-#Muhammad Xavofiy
-====
-Ali Qushchi
-====
-Qozizoda Rumiy
-====
-Vosifiy 
-++++
-Ulug‘bek Samarqandda to‘plagan olimlar soni 1417 yilda qanchaga yetgan?
-====
-#100 nafardan ortiq
-====
-80 nafardan ortiq
-====
-70 nafardan ortiq
-====
-90 nafardan ortiq 
-++++
-Zahiriddin Muhammad Boburning pedagogik qarashlari bayon etilgan asarlari?
-====
-#«Boburnoma»
-====
-«Mufassal»
-====
-«Mubayyin»
-====
-Xumoyunnoma» 
-++++
-XIX asrda Xorazmda madaniyat, ma‘rifat rivojiga rahnamolik qilgan, bosmaxona tashkil qilgan xon?
-====
-# Muhammad Rahimxon Feruz
-====
-Munis Xorazmiy
-====
-Ogahiy
-====
-Rojiy 
-++++
-Mahmudxo‘ja Behbudiyning pedagogik qarashlari bayon qilingan asarning nomi?
-====
-#«Padarkush»
-====
-«Kitob ot-torl» («Bolalar uchun kitob»)
-====
-«Islom amaliyoti»
-====
-«Najot»
-++++
-Buyuk chex olimi YaAKomenskiy yashagan jamoaning nomini aniqlang?
-====
-#«Chex qardoshlari» jamoasi
-====
-«Birodarlar» jamoasi
-====
-«Yashillar» jamoasi
-====
-«Ma‘rifatchilar» jamoasi 
-++++
-Abdulla Avloniyning pedagogikaga taalluqli asari nomini aniqlang?
-====
-#«Turkiy guliston yohud axloq»
-====
-«Biz va siz»
-====
-«Jaholat»
-====
-«O‘liklar» 
-++++
-«Buyuk didaktika» asarini o‘zbek tiliga ilk bor kim tarjima qilgan?
-====
-#M Ochilov
-====
-S Rajabov
-====
-A Munavvarov
-====
-TG‘afforova, A CHoriev 
-++++
-Mustaqil O‘zbekiston Respublikasi eski tahrirdagi «Ta‘lim to‘g‘risida»gi Qonuni va Kadrlar tayyorlash milliy dasturi qachon qabul qilingan?
-====
-#1997 yil
-====
-1992 yil
-====
-1993 yil
-====
-1994 yil 
-++++
-O‘zbekistonda maktablar ishini rivojlantirishning umummilliy dasturi qachon qabul qilindi va u nechanchi yillarga mo‘ljallangan?
-====
-#2004 yil 25 may, 2004-2009 yillarga
-====
-2003 yil 30 aprel, 2004-2010 yillarda
-====
-2002 yil 27 avgust, 2005-2008 yillarga
-====
-2001 yil 10 may, 2003-2008 yillarga 
-++++
-Jamoa qachon to‘la tarkib topgan bo‘ladi?
-====
-#Jamoa faollari mustaqil ishlay olish qobiliyatiga ega bo‘lganda
-====
-amoaning barcha vakillari teng huquqli bo‘lganda
-====
-Jamoa bir-biriga hurmat va mustahkam intizom qaror topganda
-====
-Jamoaning aniq iqtisodiy foydali maqsadi bo‘lganda va barcha a‘zolari teng huquqli bo‘lganda 
-++++
-Quyidagi tarbiyaga taalluqli misralar kimga tegishli ekanini aniqlang? Kimgaki yoshlikdan berilmas odob,Ulg‘aygach bo‘ladi baxtsiz dili g‘ash Xul novda egilar qay xilda egsang,Quruqni to‘g‘rilar fakat o‘t-otash
-====
-#S SHerozi
-====
-A Navoiy
-====
-AJomiy
-====
-Firdavsiy 
-++++
-Jismoniy tarbiyaning maqsadlari nimalardan iborat?
-====
-# Jismoniy tarbiya, jismoniy rivojlanish va jismoniy madaniyatni shaklantirish 
-====
-Jismoniy faoliyat orqali mehnat ko‘nikmalarini xosil qilish
-====
-Mard va jasur Vatan himoyachilarini tarbiyalash
-====
-Sog‘liqni mustahkamlab organizmni chiniqtirish 
-++++
-Estetik tarbiyaning maqsad va vazifasi nimalardan iborat?
-====
-#Voqelikdagi, san‘atdagi go‘zallik, tabiatdagi, turmushdagi go‘zallikni idrok qilish, to‘g‘ri tushunishga o‘rgatish, badiiy didni o‘stirish, go‘zallikka muhabbat uyg‘otish va hayotga go‘zallikni olib kirish qobiliyatini tarbiyalash
-====
-Ijtimoiy hayotdagi va tabiatdagi go‘zallikni sevish tuyg‘ularini tarbiyalash
-====
-Badiiy va estetik tarbiya berishdan
-====
-O‘tmish buyuk san‘ati, mehnat va san‘atdan zavqlanishi xissiyotini uyg‘otish 
-++++
-Quyidagilardan qaysi biri nazariy ta‘lim shakllariga kiradi?
-====
-#Dars, fakultativ mashg‘ulot, ekskursiya
-====
-Laboratoriya, amaliy mashg‘ulotlar
-====
-Qo‘shimcha dars va konsultatsiyalar
-====
-Mehnat mashg‘ulotlari, o‘qituvchining qo‘shimcha mashg‘uloti 
-++++
-Maktab, ota-onalar va jamoatchilik vakillari bilan qanday shakllarda ish olib boradi?
-====
-#Hamma javoblar to‘g‘ri
-====
-Ota-onalarni chaqirish, jamoaviy topshiriqlar berish orqali, umummaktab yig‘inlari
-====
-Ota-onalar bilan suhbatlar, majlislar, maslahatlar o‘tkazish, sinf va maktab ota-onalar qo‘mitasini tashkil etish yo‘li bilan
-====
-Ota-onalar bilan uchrashish, o‘g‘il-qizlari ta‘lim-tarbiyasi haqida muntazam axborot berish yo‘li bilan, ota-onalar bilan aloqa daftari orqali 
-++++
-Pedagogik mahorat tarkibiy qismlari qaysi qatorda to‘g‘ri ko‘rsatilgan?
-====
-#Kasbiy bilim va pedagogik qobiliyat
-====
-Ta‘lim berish mahorati
-====
-Muloqot o‘rnatish va tarbiyalash mahorati
-====
-O‘quvchilar va ota-onalar bilan ishlay olish mahorati 
-++++
-Pedagogik mahorat nima?
-====
-#Ta‘lim va tarbiya berish san‘ati
-====
-Muloqot o‘rnata olish
-====
-Pedagogik jarayonni boshqara olish mahorati
-====
-Bilim bera olish mahorati
-++++ 
-Kasbiy bilim tarkibiy qismlarini ko‘rsating?
-====
-#Nazariy bilimlar, amaliy bilimlar, metodik bilimlar
-====
-Fanga doir bilimlar
-====
-Pedagogik bilimlar
-====
-Nazariy bilimlar 
-++++
-Pedagogik qobiliyat turlarini ko‘rsating?
-====
-#Tashkilotchilik, didaktik, akademik, suggestiv, pertseptiv, Kommunikativ qobiliyat
-Pertseptiv
-====	
-Tashkilotchilik, didaktik, akademik, suggestiv, pertseptiv
-====
-Kommunikativ qobiliyat 
-++++
-O‘quvchilar jamoasi oldida obro‘ orttirish uchun o‘qituvchi qanday xususiyatga ega bo‘lishi kerak?
-====
-# Namuna ko‘rsatishi, O‘z ustida tinimsiz izlanishi, O‘quvchilarni seva olishi
-====
-Namuna ko‘rsatishi
-====
-O‘z ustida tinimsiz izlanishi
-====
-O‘quvchilarni seva olishi 
-++++
-Didaktik qobiliyat turi nima?
-====
-#Ta‘lim bera olish, ta‘lim usullarini to‘g‘ri tanlay olish
-====
-Nutqning boyligi
-====
-Ta‘lim nazariyasini chuqur o‘zlashtirish
-====
-O‘quvchilar olamiga nazar tashlay olish
-++++
-Ta‘lim jarayoni ishtirokchilarining huquq va burchlar qaysi me‘yoriy hujjatda ko‘rsatib o‘tilgan?
-====
-#«Ta‘lim to‘g‘risida»gi Qonunda
-====
-Mehnat kodeksida 
-====
-Jinoyat kodeksida
-====
-Kostitutsiyada 
-++++
-Pedagogik texnikaga qaysi javobda to‘g‘ri ta‘rif keltirilgan?
-====
-#O‘qituvchiga o‘quv faoliyatida ham, o‘qishdan tashqari faoliyatda ham zarur bo‘lgan umumiy pedagogik malakalar majmuidan iborat
-====
-Ta‘lim-tarbiya jarayoni vosita va usullari
-====
-Ta‘lim jarayonida qo‘llaniladigan texnik vositalar
-====
-To‘g‘ri javob yo‘q
-++++ 
-Pedagogik takt nima?
-====
-#O‘qituvchining o‘quvchilar bilan muloqotda pedagogik maqsadga qaratilgan usul va uslubni, samarali tarbiyaviy ta‘sir vositalarini topa bilish va to‘g‘ri qo‘llay bilish kasbiy malakasi
-====
-Muloqot shakli
-====
-Tarbiya usuli
-====
-Ta‘lim usuli 
-++++
-O‘qituvchining jamoa bilan muloqot shakllari qaysi qatorda to‘g‘ri ko‘rsatilgan?
-====
-#Passiv-ijobiy, faol-ijobiy, o‘zgaruvchan
-====
-Doimiy, o‘zgaruvchan
-====
-Jamoaviy va yakka
-====
-B va C javoblar to‘g‘ri
-++++ 
-Jamoa a‘zolarini nima birlashtiradi?
-====
-#Yagona maqsad
-====
-Tengdoshlik xususiyatlari
-====
-Tartib-intizom
-====
-ishonch va hurmat 
-++++
-Quyidagi pedagogik malakalar majmui pedagogik texnikaning qaysi tarkibiy qismiga tegishli: «Savodli gapirish, o‘z fikrini ifodali, ta‘sirchan ifodalash, tovushlarni to‘g‘ri talaffuz qilish»?
-====
-#Nutq madaniyati
-====
-Mimika, pantomimika
-====
-O‘qituvchining hissiy holati
-====
-diksiya 
-++++
-Quyidagi pedagogik malakalar majmui pedagogik texnikaning qaysi tarkibiy qismiga tegishli: «Jiddiylik darajasi, xayrixohlik kayfiyatini saqlash, umidbaxshlik»?
-====
-#O‘qituvchining hissiy holati
-====
-Nutq madaniyati
-====
-Mimika, pantomimika
-====
-diksiya 
-++++
-Quyidagi fikr qaysi mashhur pedagogning qalamiga mansub: «Tarbiyachi tashkil etishni, ish yuritishni, hazillashishni, quvnoq, jahldor bo‘lishni bilishi lozim, u o‘zini shunday tutishi kerakki, uning har bir harakati tarbiyalasin»?
-====
-#A S Makarenko
-====
-Abdulla Avloniy
-====
-Mishel Monten
-====
-Ya A Komenskiy
-++++ 
-O‘qituvchi o‘quvchi bilan shaxsiy munosabat o‘rnatayotganda oraliq masofa qancha bo‘lishi lozim?
-====
-#45 sm dan 120 sm gacha
-====
-120 sm dan 400 sm gacha
-====
-400 sm dan 750 sm gacha
-====
-750 sm dan 1000 sm gacha 
-++++
-Monoton ohangdagi nutq qanday oqibatlarga olib keladi?
-====
-#O‘quvchilarni zeriktiradi
-====
-O‘quvchilarni darsga qiziqtiradi
-====
-Bilimlarni o‘zlashtirishiga yordam beradi
-====
-O‘quvchilar uchun og‘irlik qiladi 
-++++
-O‘qituvchining juda baland ovozi o‘quvchilarga qanday ta‘sir qiladi?
-====
-#O‘quvchilarni charchatib qo‘yadi
-====
-Suhbatdoshni chalg‘itadi
-====
-Hamma javoblar to‘g‘ri 
-++++
-Tavtologiya nima?
-====
-#Bir o‘rinda bir xil ma‘noli so‘zlardan o‘rinsiz foydalanish
-====
-So‘z boyligi
-====
-Sinonimlardan o‘rinli foydalanish
-====
-Bir maqsadga qaratilgan nutq 
-++++
-O‘qituvchi nutqiga qo‘yiladigan leksik talablar nima?
-====
-#Hamma javoblar to‘g‘ri
-====
-Lug‘atning boy bo‘lishi
-====
-Sinonimlardan keng foydalanish
-====
-So‘zlardan o‘rinli foydalanish 
-++++
-O‘qituvchi nutqiga qo‘yiladigan grammatik talablar nima?
-====
-#Gap tuzilishida grammatik qoidalarga rioya etish
-====
-Lug‘atning boyligi
-====
-Nutq ifodaliligi
-====
-To‘g‘ri javob yo‘q 
-++++
-O‘qituvchi nutqiga qo‘yiladigan orfoepik talablar nima?
-====
-#Tovushlarni to‘g‘ri talaffuz qilish
-====
-Gap tuzilishiga e‘tibor berish
-====
-Nutq boyligi
-====
-Hamma javoblar to‘g‘ri 
-++++
-Quyidagi tavsif qaysi uslubda muloqot o‘rnatgan o‘qituvchiga nisbatan berilgan: «Yaxshi o‘qituvchi, ammo muomalasi qandaydir quruq Bolalar bilan hech qachon erkin gaplashmaydi»?
-====
-#Passiv-ijobiy
-====
-Faol-ijobiy
-====
-O‘zgaruvchan
-====
-To‘g‘ri javob yo‘q 
-++++
-Quyidagi tavsif qaysi uslubda muloqot o‘rnatgan o‘qituvchiga nisbatan berilgan: «Bolalarni va o‘z kasbini sevadi Har qanday bolaga bilim bera oladi Bolalarga qat‘iy chora ko‘rmaydi, ammo talabchan va printsipial»?
-====
-#Faol-ijobiy
-====
-Passiv-ijobiy
-====
-O‘zgaruvchan
-====
-To‘g‘ri javob 
-++++
-Quyidagi tavsif qaysi uslubda muloqot o‘rnatgan o‘qituvchiga nisbatan berilgan: «Sofdil, bilimli, ko‘p ishlaydi, bolalarni va o‘z kasbini sevadi, ammo bolalar chalg‘itsa o‘zini yo‘qotib qo‘yadi»?
-====
-#O‘zgaruvchan
-====
-Faol-ijobiy
-====
-Passiv-ijobiy
-====
-To‘g‘ri javob yo‘q 
-++++
-Pedagogik mahoratni oshirish yo‘llarini ko‘rsating?
-====
-#Auditoriyada va auditoriyadan tashqarida
-====
-Badiiy asarlar o‘qish orqali
-====
-Ilmiy adabiyotlarni tahlil qilish orqali
-====
-Tajriba orttirish davomda 
-++++
-Yuqori darajada shakllangan jamoada boshqaruvni kim amalga oshiradi?
-====
-#Jamoa o‘z-o‘zini boshqaradi
-====
-Sinf rahbari
-====
-Sinf faollari
-====
-Ota-onalar 
-++++
-Sinfdan va maktabdan tashqari tarbiyaviy ish jarayonida qaysi ish usullaridan foydalaniladi?
-====
-# Ertaliklar, majlislar, to‘garaklar
-====
-Ommaviy va yakka ish usullari
-====
-Og‘zaki ish usullari, amaliy ish usullari, ko‘rgazmali ish usullari
-====
-Hamma javoblar to‘g‘ri 
-++++
-Sayohatlar, olimpiada va to‘garaklar qaysi ish usuliga kiradi?
-====
-#Amaliy
-====
-Og‘zaki
-====
-Ko‘rgazmali
-====
-ekskursiya 
-++++
-Ertaliklar, kitobxonlar konferentsiyalari, munozaralar qaysi ish usuliga tegishli?
-====
-# Sinfdan va maktabdan tashqari tarbiyaviy ish 
-====
-Amaliy
-====
-Ko‘rgazmali
-====
-Og‘zaki 
-++++
-Maktab muzeylari, kitoblar ko‘rgazmasi qaysi ish usuliga taalluqli?
-====
-#Ko‘rgazmali
-====
-Og‘zaki
-====
-Amaliy
-====
-To‘g‘ri javob yo‘q
-++++ 
-«Sokin suzayotgan sol» o‘xshatmasi jamoaga rahbarlik qilishning qaysi uslubiga tegishli?
-====
-#Liberal
-====
-Demokratiik
-====
-Avtoritar
-====
-monarxiya 
-++++
-Sinfdan va maktabdan tashqari tarbiyaviy ish tashkilotchisining vazifalari nimalardan iborat?
-====
-#Hamma javoblar to‘g‘ri
-====
-Darsdan tashqari tarbiyaviy ishlarni rejalashtirish, sinf faollari va pedagogik jamoa yordamida ishni yo‘lga qo‘yish va amalga oshirishni nazorat qilish
-====
-Tarbiyaviy ishlarga bevosita rahbarlik qilgan holda hamkorlarga uslubiy yordam ko‘rsatish
-====
-Tarbiyaviy ish jarayonida jamoatchilik kuchidan foydalanish va muhim tadbirlarda qatnashish 
-++++
-«Bumerang» o‘xshatmasi jamoaga rahbarlik qilishning qaysi uslubiga tegishli?
-====
-#Demokratik
-====
-Liberal
-====
-Avtoritar
-====
-monarxiya 
-++++
-Nutq nima?
-====
-# Muloqot vositasi va Fikrlarni bayon etish shakli
-====
-Muloqot vositasi
-====
-Fikrlarni bayon etish shakli
-====
-So‘z va gaplar 
-====
-Nutq qanday shakllarda ifodalanadi?
-====
-#Og‘zaki va yozma
-====
-Yozuvlar orqali
-====
-So‘zlar orqali
-====
-Tovushlar orqali 
-++++
-O‘qituvchining qanday nutqi o‘quvchilarni zeriktiradi?
-====
-#Uzoq davom etadigan monolog
-====
-Munozarali va muammoli
-====
-Savol-javoblar
-====
-To‘g‘ri javob yo‘q 
-++++
-Ta‘lim jarayoni oldiga qanday maqsadlar qo‘yiladi?
-====
-#Ta‘limiy, tarbiyaviy, rivojlantiruvchi
-====
-Dars mazmunini o‘quvchilarga yetkazish
-====
-Barkamol shaxsni tarbiyalash
-====
-Jismoniy rivojlantirish 
-++++
-O‘qituvchi professiogrammasi qaysi xususiyatlarni o‘z ichiga oladi?
-====
-#Hamma javoblar to‘g‘ri
-====
-O‘qituvchi shaxsining xususiyatlari va ruhiy-pedagogik tayyorgarlikka qo‘yiladigan talablar
-====
-Maxsus tayyorgarliknig hajmi va tarkibi
-====
-Ixtisosga oid metodik tayyorgarlikning mazmuni 
-++++
-O‘qituvchi shaxsining xususiyatlari qaysi yo‘nalishlarda aniqlanadi?
-====
-#Mafkuraviy, kasbiy-pedagogik va bilim sohasida
-====
-Pedagogik-psixologik sohalarda
-====
-Kasbiy tayyorgarlik sohasida
-====
-Tarbiyachilik sohasida 
-++++
-So‘zlar orasidagi tanaffuslar nima deb ataladi?
-====
-#Ritm
-====
-Temporitm
-====
-Diapozon
-====
-Tembr 
-++++
-Nutq boyligi nima bilan belgilanadi?
-====
-#Sinonimlardan keng va o‘rinli foydalanish bilan
-====
-So‘zlarni to‘g‘ri qo‘llashda
-====
-Tovushlarni to‘g‘ri talaffuz qilish bilan
-====
-Hamma javob to‘g‘ri 
-++++
-«O‘tkir o‘q» o‘xshatmasi jamoaga rahbarlik qilishning qaysi uslubiga tegishli?
-====
-#Avtoritar
-====
-Demokratik
-====
-Liberal
-====
-monarxiya 
-++++
-Jamoa shakllanishi jarayoni necha bosqichda amalga oshadi?
-====
-#to‘rt bosqichda
-====
-Ikki bosqichda
-====
-uch bosqichda
-====
-Besh bosqichda 
-++++
-Quyidagi belgilarga ega jamoa shakllanishning qaysi bosqichida: «Pedagogning talablari faollarning jamoaga bildiradigan talablari bilan qo‘shiladi Pedagog faollardan barcha o‘quvchilarni ijtimoiy qimmatli faoliyatga jalb etish vositasi sifatida foydalanadi Faollar jamoa a‘zolariga topshiriqlar beradi, ularning bajarilishini nazorat qiladi va talab qiladi»?
-====
-#Ikkinchi bosqichida
-====
-Birinchi bosqichida
-====
-Uchinchi bosqichida
-====
-To‘rtinchi bosqichida 
-++++
-Quyidagi belgilarga ega jamoa shakllanishning qaysi bosqichida: «Pedagogning kuch-g‘ayrati natijasida sinfda o‘rnatilgan muayyan darajadagi tartib-intizom mavjud O‘quvchilarning uncha katta bo‘lmagan qismi o‘qituvchining fikrinni qo‘llab-quvvtlaydi Sinf faollari faoliyati to‘liq yo‘lga qo‘yilmagan»?
-====
-#Birinchi bosqichida
-====
-Ikkinchi bosqichida
-====
-Uchinchi bosqichida
-====
-To‘rtinchi bosqichida 
-====
-Quyidagi belgilarga ega jamoa shakllanishning qaysi bosqichida: «Jamoa o‘z-o‘zini boshqarishga o‘tgan O‘zaro munosabatlar axloqiy qimmatga ega Bunday jamoada pedagogning talablari jamoa a‘zolarining bir-biriga bo‘lgan talablari bilan uyg‘unlashadi»?
-====
-#Uchinchi bosqichida
-====
-Birinchi bosqichida
-====
-Ikkinchi bosqichida
-====
-To‘rtinchi bosqichida 
-++++
-Nutq ifodaliligini oshirishda qaysi stilistik usullardan foydalaniladi?
-====
-#Antonimlardan
-====
-Sinonimlardan
-====
-Omonimlardan
-====
-Anafora, inversiya, intonatsiya 
-++++
-Anafora nima?
-====
-#Nutq ta‘sirchanligini oshirish maqsadida gapda ayrim so‘zlarning takrorlanishi
-====
-Nutq xususiyati
-====
-Frazeologiya
-====
-To‘g‘ri javob yo‘q 
-++++
-Inversiya nima?
-====
-#Nutq ta‘sirchanligini oshirish maqsadida gapda so‘zlarning o‘rnini almashtirish holati
-====
-Nutq hodisasi
-====
-Boshqa tilga xos so‘zlardan foydalanish
-====
-To‘g‘ri javob yo‘q 
-++++
-Intonatsiya nima?
-====
-#Nutq mazmuniga mos holda so‘zlash, ayrim so‘z va iboralarni ajratib, ta‘kidlab ko‘rsatish
-====
-She‘r o‘qish
-====
-Iboralardan keng foydalanish
-====
-To‘g‘ri javob yo‘q 
-++++
-Pedaogik mahoratning shakllanish bosqichlari qaysi qatorda to‘g‘ri ko‘rsatilgan?
-====
-#Reproduktivlik, ijodiylik, ijodiy-novatorlik
-====
-Boshlang‘ich, o‘rta va yuqori
-====
-Past, o‘rta va yuqori
-====
-Hamma javoblar to‘g‘ri 
-++++
-O‘qituvchining o‘quvchilarga kommunikativ ta‘sir etish usullarini ko‘rsating?
-====
-#Ishontirish va singdirish
-====
-Muloqot va muomala
-====
-So‘zlashuv
-====
-Tajriba almashinuv 
-++++
-Ishontirish usulining samarali kechishi nimalarga bog‘liq?
-====
-#Hamma javoblar to‘g‘ri
-====
-Axborot majmui va o‘qituvchining avtoritetiga
-====
-Ishontirish ta‘siri qaratilgan shaxsnig ruhiy jihatlari va ularning ta‘sir etish jarayonida inobatga olinishiga
-====
-O‘qituvchi va o‘quvchilarnig o‘zaro muloqot jarayonidagi aqliy va ruhiy holatiga
-++++ 
-Singdirish usuli turlarini ko‘rsating?
-====
-#Bevosita va bilvosita
-====
-Doimiy va vaqtinchalik
-====
-Yakka va guruh bilan
-====
-Jamoaviy 
-++++
-Qat‘iy talab va buyruqlar singdirish usulining qaysi turiga mansub?
-====
-#Bevosita pedagogik singdirish usuliga
-====
-Bilvosita pedagogik singdirish usuliga
-====
-Tushuntirish usuliga
-====
-To‘g‘ri javob yo‘q 
-++++
-Ishoralar, qoralash, rag‘batlantirish singdirish usulining qaysi turiga mansub?
-====
-#Bilvosita pedagogik singdirish usuliga
-====
-Bevosita pedagogik singdirish usuliga
-====
-Tushuntirish usuliga
-====
-Fikrlarni bayon etish shakli 
-++++
-Emotsional barer nima?
-====
-#O‘qituvchining fikrlarini qabul qilishga halaqit beradigan his-tuyg‘ular
-====
-Qarama-qarshi tuyg‘ular
-====
-Fikrlar to‘qnashuvi
-====
-Fikrlarni bayon etish
-++++ 
-Tovush hosil qilishda qanday nafasdan foydalaniladi?
-====
-#Fonatsion
-====
-Fiziologik
-====
-Chuqur
-====
-Fikrlarni bayon etish 
-++++
-Tovush apparati qismlarini ko‘rsating?
-====
-#Energetik, generator, resonator
-====
-Til, lab, tish
-====
-Halqum, bo‘g‘iz
-====
-Og‘iz bo‘shlig‘i, burun 
-++++
-Tovushning egiluvchanligi nima?
-====
-#Tovushni o‘zgartira olish
-====
-Tovushlarni to‘g‘ri talaffuz qilish
-====
-Kuylay olish
-====
-Baland tovush 
-++++
-Pedagogik texnika qanday qismlardan iborat?
-====
-#Hamma javoblar to‘g‘ri
-====
-O‘z organizmini boshqarish
-====
-Kayfiyat va his-tuyg‘ularini boshqarish
-====
-Nutq texnikasi 
-++++
-Fonatsion nafas olishda izchillik qanday amalga oshadi?
-====
-# Nafas olish, pauza, nafas chiqarish
-====
-Nafas olish, nafas chiqarish, pauza
-====
-Nafas olish, nafas chiqarish
-====
-Pauza, nafas olish, nafas chiqarish 
-++++
-Nutq funksiyalari nimalardan iborat?
-====
-#Muloqot, fikrlarni ifodalash, axborot almashinuv vositasi
-====
-O‘qitish vositasi
-====
-Tarbiya vositasi
-====
-Fikr almashinuv 
-++++
-O‘qituvchi mehnatini ilmiy asosda tashkil etish tamoyillarini ko‘rsating?
-====
-# Rejalashtirish, tashkil etish, Boshqarish, Nazorat qilish
-====
-Rejalashtirish, tashkil etish
-====
-Boshqarish
-====
-Nazorat qilish 
-++++
-O‘z-o‘zini tarbiyalash uslublarini ko‘rsating?
-====
-#O‘z-o‘zini bilish, o‘z-o‘zini baholash
-====
-O‘z ustida ishlash
-====
-O‘z maqsadini anglash
-====
-O‘z vazifalarini anglash 
-++++
-Pedagogik tajribani to‘plash tizimi nimalardan iborat?
-====
-# Maqsadni belgilash, Tahlil etish, umumlashtirish, xulosa qilish, Yutuqlarni aniqlash, ma‘lumot to‘plash
-====
-Maqsadni belgilash
-====
-Tahlil etish, umumlashtirish, xulosa qilish
-====
-Yutuqlarni aniqlash, ma‘lumot to‘plash 
-++++
-O‘qituvchining munosabat uslublarini ko‘rsating?
-====
-#Monologik va dialogic
-====
-To‘g‘ridan-to‘g‘ri munosabat
-====
-Bevosita va bilvosita
-====
-Nutqiy va nonutqiy 
-++++
-Pedagogik nazokat nima?
-====
-#Ta‘lim-tarbiya jarayonida his-tuyg‘uga rioya etish
-====
-Axloq me‘yorlariga rioya etish
-====
-Me‘yor tuyg‘usi va pedagogik odob qoidalariga rioya etish
-====
-His-tuyg‘u 
-++++
-Quyidagi singdirish usullaridan qaysi biri pedagogik jarayonda foydalaniladi?
-====
-#O‘z-o‘ziga singdirish
-====
-Relaksatsiya holatida singdirish
-====
-Ongli holatda singdirish
-====
-Gipnoz holatida singdirish 
-++++
-Qobiliyat nima?
-====
-#Shaxsning muayyon faoliyat yuzasidan layoqatini ifodalovchi psixik xususiyat
-====
-Boshqa insonlardan ustunlik jihati
-====
-Psixologik xususiyat
-====
-Yutuqlarni aniqlash, ma‘lumot to‘plash 
-++++
-Empatiya nima?
-====
-#Boshqa odamlarning psixik holatlarini tushunish va ularga hamdardlik qilish qobiliyati
-====
-Norozilik kayfiyati
-====
-Simpatiyaga qarama-qarshi tushuncha
-====
-Psixik holat 
-++++
-O‘qituvchining ota-onalar bilan muloqot shakllarni ko‘rsating?
-====
-#Yakka va ommaviy suhbat, sinf majlislari, xat orqali muloqot, uchrashuvlar 
-====
-Yutuqlarni aniqlash, ma‘lumot to‘plash
-====
-Ta‘lim va tarbiya jarayonidagi uchrashuvlar
-====
-Yakka holdagi suhbat 
-++++
-Pedagogik muloqot shakllari qaysi qatorda to‘g‘ri ko‘rsatilgan?
-====
-# O‘qituvchi va o‘quvchi muloqoti, O‘qituvchi va o‘quvchilarning ota-onalari o‘rtasidagi muloqot, O‘qituvchi va pedagogik jamoa orasidagi suhbat
-====
-O‘qituvchi va o‘quvchi muloqot
-====
-O‘qituvchi va o‘quvchilarning ota-onalari o‘rtasidagi muloqot
-====
-O‘qituvchi va pedagogik jamoa orasidagi suhbat 
-++++
-Tovush apparatining energetik tizimi qanday vazifani bajaradi?
-====
-#Tovush hosil qilish tizimini havo bilan ta‘minlaydi
-====
-tovushini hosil qilishda ishtirok etadi
-====
-tovushini hosil qilishda ishtirok etadi
-====
-Tovush hosil qiladi 
-++++
-Tovush apparatining rezonator tizimi qanday vazifani bajarishda ishtirok etadi?
-====
-#Shovqin tovushlarni hosil qilishda ishtirok etadi Tovush hosil qiladi
-====
-Havo bilan ta‘minlaydi
-====
-Tovush hosil qiladi
-====
-Pauzada ishtirok etadi 
-++++
-«Takt» so‘zi qanday ma‘noni anglatadi?
-====
-#Ta‘sir etish, tegish ma‘nolarini
-====
-Oraliq ma‘nosini
-====
-Masofa ma‘nosini
-====
-Vaqt ma‘nosini 
-++++
-Pedagogik takt nima?
-====
-#O‘qituvchining ta‘lim-tarbiya jarayonida samarali tarbiyaviy ta‘sir vositalari va muloqot uslublarini topa bilish malakasi 
-====
-Hamma javoblar to‘g‘ri
-====
-Ta‘lim metodi
-====
-Tarbiya metodi 
-++++
-Pedagogik mehnat predmeti nima?
-====
-#Shaxs
-====
-Dars
-====
-Tarbiya
-====
-Ta‘lim 
-++++
-Pedagogik mehnat maqsadi nimadan iborat?
-====
-#Har tomonlama yetuk bo‘lgan komil insonni tarbiyalash
-====
-Ta‘lim-tarbiya
-====
-O‘qitish
-====
-Bilim berish 
-++++
-Ta‘lim maqsadlari qaysi yo‘nalishlarda belgilab olinadi?
-====
-#Ta‘limiy, tarbiyaviy, rivojlantiruvchi 
-====
-Iqtisodiy, ma‘naviy
-====
-Rivojlantiruvchi, chiniqtiruvchi
-====
-Moddiy, ma‘naviy 
-++++
-Pedagogik texnologiya nima?
-====
-#ta’lim texnologiyasi
-====
-ta’limot texnologiyasi
-====
-ish texnologiyasi
-====
-bilim texnologiyasi 
-++++
-Axborotli texnologiya nima?
-====
-#pedagogik texnologiyaning tarkibiy qismi
-====
-nazorat turlari (joriy, oraliq, yakuniy)
-====
-o‘zaro ta’sirlar
-====
-pedagogikada monitoring 
-++++
-Pedagogik texnologiyani asosiy maqsadi nimalardan iborat?
-====
-#takomillashtirish yoki o‘quvchilarning bilish faoliyatini rivojlantirishdan
-====
-o‘quvchiga qo‘yib borilgan baholarni predmet bo‘yicha umumiy bahoga birlashtirish qoidalaridan
-====
-o‘quv jarayonini uzluksiz, uzoq vaqt muttassil kuzatish va uni boshqarishdan
-==== 
-o‘quvchilarning bilish faoliyatini rivojlantirishdan 
-++++
-Pedagog modeli nimalardan iborat?
-====
-#ta’lim berish mahorati, ta’lim oluvchilarning bilimlarini xolisona baholay olish, ilmiy-tadqiqot ishlarini olib ---borish, o‘z bilim va mahoratini doimiy ravishda oshirib boorish
-====
-ta’lim oluvchilarning bilimlarini xolisona baholay olish, talabchanlik va adolatlilik
-====
-ilmiy-tadkikot ishlarini olib borish, u bilim va mahoratini doimiy ravishda oshirib boorish
-====
-o‘z bilim va mahoratini doimiy ravishda oshirib borish, ta’lim oluvchilarning bilimlarini xolisona baholay olish 
-++++
-Pedagogik texnologiyaning asosiy vazifasi nima?
-====
-#o‘quv jarayonini mazmunli amalga oshirish va rivojlantirish
-====
-o‘quv jarayonini mazmunli rivojlantirish
-====
-o‘quv jarayonini vaqt doirasida olib boorish
-====
-o‘quv jarayonini mazmunli amalga oshirish 
-++++
-Pedagogik texnologiyani bugungi kundagi ahamiyati qanday?
-====
-#sohadagi nazariy va amaliy izlanishlarni birlashtirish doirasidagi faoliyatni aks ettiradi
-====
-pedagogikada monitoringda
-====
-ta’limning baholash shkalasida
-====
-o‘quv jarayonini uzluksizligida 
-++++
-Pedagogik texnologiyada axborot texnologiyalarni o‘rni qanday?
-====
-#boshqarish imkoniyati tug‘iladi va u o‘qituvchining yaqin ko‘makdoshiga aylandi hamda uning funktsiyalarini qisman o‘z zimmasiga oladi
-====
-ijodiy yondashuvda
-====
-o‘zaro ta’sirlarda
-====
-pedagogikada monitoringda
-++++ 
-An’anaviy yondashuvning asosiy xususiyati nimada?
-====
-#gapirib berish, tushuntirish, talaba esa bu axborotni xotirada saqlaydi
-====
-ijodiy yondashuv
-====
-nazorat turlari (joriy, oraliq, yakuniy)
-====
-o‘zaro ta’sirlar 
-++++
-«Tizim» so‘zi haqida tushuncha?
-====
-#qismlardan tuzilgan, birikkan yaxlit narsa yoki hodisa
-====
-gaplarni yozib, saqlab olish
-====
-ijodiy yondashuv
-====
-o‘quvchilarning bilish faoliyatini rivojlantirish 
-++++
-Pedagogik tizim nimalardan iborat?
-====
-#pedagogik jarayonning obektlari va sub’ektlari, shakl - usullari, ular o‘rtasidagi munosabatlar,o‘zaro ta’sirlar hamda ularni boshqarishdan
-====
-o‘quvchilarning bilish faoliyatini rivojlantirish
-====
-gaplarni yozib, saqlab olish, ijodiy yondashuv, bilim berishdan
-====
-tankidiy-ijodiy yondashuv, o‘zaro ta’sirlar 
-++++
-«Texnologiya» so‘zi haqida tushuncha?
-====
-#«texne» - san’at, «logos» – tushuncha o‘qitish
-====
-qismlardan tuzilgan, birikkan yaxlit narsa yoki hodisa
-====
-«texne» - mehnat, san’at, «logos» - tushuncha bilim
-====
-«texne» - qobiliyat, san’at, «logos» - tushuncha ta’lim 
-++++
-Reproduktiv darajasi uchun pedagogik texnologiya usulida ta’lim - qanaqa jarayon sifatida tashkil etiladi?
-====
-#takror ishlab chiqiladigan konveyerli jarayon
-====
-harakatning yangi usullarini topish jarayoni
-====
-mustaqil o‘zlashtirish jarayoni
-====
-ijodiy yondashuv jarayoni 
-++++
-Ta’lim jarayoni nimalardan iborat?
-====
-#maqsad, nazorat, baholash, natija, ta’lim metodlari
-====
-harakatlarni tekshirish
-====
-xatoni tuzatish, baholash
-====
-maqsad, xatoni tuzatish 
-++++
-O‘quv jarayoni nimalardan iborat?
-====
-#ta’limning maqsadi va mazmuni, baholash, o‘qish-o‘qitish
-====
-matnli belgi, ovozli belgi
-====
-harakatlarni, shakllar va chizuvlar
-====
-ishchi fazo, yordamchi vositalar paneli 
-++++
-Pedagogik texnologiya usulining umumiy tuzilmasi nimalardan iborat?
-====
-#predmet bo‘yicha maqsad hamda vazifalar tizimini ishlab chiqish, ta’lim maqsadlarini nazorat (test) topshiriqlariga aylantirish
-====
-o‘quvchiga qo‘yib borilgan baholarni predmet bo‘yicha umumiy bahoga birlashtirish koidalari
-o‘zaro ta’sirlar, pedagogikada monitoring
-====
-baho shkalasi o‘quvchiga qo‘yib borilgan baholarni predmet bo‘yicha umumiy bahoga birlashtirish qoidalari
-++++ 
-Pedagogning umumiy madaniyati nimalardan iborat?
-====
-#Bilimi, ishonchi, qobiliyati va xulqi
-====
-Ijtimoiy madaniyat
-====
-Kasbiy ahamiyatli madaniyat
-====
-Kasbiy faoliyatda yetukligi 
-++++
-Pedagog uchun eng zarur nutq madaniyatini belgilang?
-====
-#Nutqning grammatik to‘g‘riligi, uning leksik boyligi, aniq va ravshan ifodalanganligi
-====
-Keng fikrlilik, tinglovchini zeriktirmaydigan muloqot o‘rnatish
-====
-Tinglay olish, qo‘llab-quvvatlash
-====
-Tanqidiy nuqtai nazar, o‘z fikrini himoya qilish 
-++++
-Oliy ta’lim nechta bosqichdan iborat?
-====
-#2
-====
-4
-====
-3
-====
-5 
-++++
-Ta’lim mazmunining asosiy nazariyalari nechanchi asrlarda paydo bo‘lgan?
-====
-#XVIII-XIX
-====
-XIX-XXI
-====
-XX-XXII
-====
-VIII-XII 
-++++
-Shaxs shakllanishining asosini nima tashkil etadi?
-====
-#Bilim
-====
-Ko‘nikma
-====
-Malaka
-====
-Hammasi 
-++++
-O‘qitish metodiga ta’rif bering?
-====
-#Murakkab, ko‘p qirrali, ko‘p sifatlarga ega bo‘lgan taxmindir
-====
-Sodda, ravon, o‘z tamoyillari va shakllariga ega bo‘lgan ta’limdir
-====
-Didaktik tadqiqotlar o‘qitishni didaktik jarayon sifatida o‘rganadi.
-====
-Ta’lim mazmunida yuz berayotgan barcha o‘zgarishlarni hisobga oladi
-++++
-O‘quv-bilish faoliyatini tashkil etish va amalga oshirish metodlarini ko‘rsating?
-====
-#Ifodali, ko‘rgazmali, amaliy
-====
-Induktiv va Deduktiv
-====
-Reproduktiv va muammoli-ijodiy
-====
-(o‘qituvchi rahbarligida mustaqil ish metodlari) hammasi 
-++++
-X.X.Platev qaysi sharq allomasining ilmiy g‘oyalarini umumlashtirib bilish to‘g‘risidagi nazariyani asoslab bergan?
-====
-#Forobiy
-====
-Beruniy
-====
-Ibn Sino
-====
-Al-Kindiy 
-++++
-Innovatsiya faoliyatidagi «kreativlik» deganda siz nimani tushunasiz?
-====
-#Individning yangi tushuncha yaratish va yangi ko‘nikmalar hosil qilish qobiliyatini bildiradi
-====
-o‘qituvchining kasbiy mahorati cho‘qqilariga erishuvi
-====
-Ijtimoiy vaziyatlarda o‘zining o‘rnini anglab olish
-====
-SHaxs o‘zini namoyon qila olish va o‘zining muayyan ishlarini amalga oshirish 
-++++
-Innovatsion faoliyatining samaradorligi nima bilan belgilanadi?
-====
-#Pedagog shaxsiyati
-====
-Pedagog faoliyati
-====
-Pedagogning ish faoliyati
-====
-Pedagogning muomalasi bilan 
-++++
-Texnologiyalashtirish nima?
-====
-#Ob’ektiv jarayon bo‘lib, ta’lim evolyutsiyasining yangi vazifalarini sifatli hal qilish uchun -tayyorgarlik davri
-====
-Ta’lim evolyutsiyasini amalga oshirish
-====
-Ta’lim evolyutsiyasining vazifalar davri 
-====
-Ob’ektiv jarayonida 
-++++
-Innovatsion faoliyat nechta asosiy funktsiyalarni o‘z ichiga oladi?
-====
-#5 ta
-====
-4 ta
-====
-3 ta
-====
-2 ta 
-++++
-Texnologiya so‘zi qaysi tildan olingan?
-====
-#Grekcha
-====
-Lotincha
-====
-Frantsuzcha
-====
-Arabcha 
-++++
-Texnologiya tushunchasi nechanchi yillarda kirib kelgan?
-====
-#60 yillarda
-====
-40 yillarda
-====
-30 yillarda
-====
-50 yillarda 
-++++
-Texnologik sub’ekt nima?
-====
-#Sub’ektiv munosabatlarni o‘rnatish darajasida ishlaydi.
-====
-Nazariya va amaliyot o‘rtasida oraliq holatni egallaydi
-====
-Ob’ektiv munosabatlarni o‘rnatish darajasida ishlaydi
-====
-Ob’ektiv va subьektьiv munosabatlar o‘rnatish darajasida ishlaydi 
-++++
-Muammoli o‘qitish texnologiyasi nima?
-====
-#Takomillashgan o‘qitish texnologiyasi
-====
-Reproduktiv shakllariga nisbatan texnologiyasi
-====
-Muammoli vaziyatlarni vujudga keltirish
-====
-Bilimlarni o‘zlashtirish texnologiyasi 
-++++
-Muammoli o‘qitish yetarli darajada bo‘lishi uchun qanday bo‘lishi kerak?
-====
-#Yaxlit o‘quv-tarbiya jarayoning uzviy qismi bo‘lishi kerak
-====
-o‘quv fanlari va bilishga bo‘lgan qiziqish bilan boglangan bo‘lishi kerak
-====
-Didaktik qimmatini belgilovchi o‘quv materialiga urg‘u berilib o‘tishi kerak
-====
-Talaba bilan individual suhbat qila bilishi kerak 
-++++
-O‘qituvchining innovatsion faoliyati qaysi masalalarni yechishga qaratilgan?
-====
-#Voqelikni o‘zgartirishga, uning muammolari va usullarini yechishni aniqlashga qaratilgan
-====
-Shaxsiy ijodiy-motivatsion yo‘nalganligini aniqlashga qaratilgan
-====
-Kasbiy faoliyatni baholashga qaratilgan
-====
-Innovatsion faoliyatga bo‘lgan zaruriyatni anglashga qaratilgan 
-++++
-Test – bu ....
-====
-#Nazorat
-====
-Topshiriq
-====
-Sinov
-====
-Topshiriq va etalon 
-++++
-O‘qituvchining pedagogik faoliyati turlari - bu ...
-====
-#Konstruktiv, tadqiqotchilik, kommunikativ, tashkilotchilik, gnostik
-====
-Ta’lim beruvchi, tarbiyalovchi, rivojlantiruvchi
-====
-o‘quvchi faoliyatini tashkil etish va boshqarish
-====
-Shakllantiruvchi va rivojlantiruvchi 
-++++
-Seminar mashg‘ulotining eng muhim bosqichi nima?
-====
-#Uning o‘zagi muammoli savolga javob qidirishni tashkil etish
-====
-Muammolarning yechimi usulini izlashni tashkil qilish
-====
-Muammoni yechish usulini izlash
-====
-Savollarga javob berish 
-++++
-Rivojlangan aqlning eng oliy shakli nima? 
-====
-#Ijodiy tafakkur
-====
-Mustaqil fikr
-====
-Ijodiy yondashish
-====
-Intizomliylik 
-++++
-Ta’lim mazmunini tanlash tamoyillari nechta?
-====
-#6 ta
-====
-4 ta 
-====
-5 ta
-====
-3 ta 
-++++
-Masofadan o‘qitishning tarkibiy belgilari?
-====
-#o‘qituvchi-kommunikatsiya-o‘quvchi
-====
-o‘quvchi-o‘qituvchi-kommunikatsiya
-====
-kommunikatsiya- o‘qituvchi-o‘quvchi
-====
-o‘qituvchi-o‘quvchi-kommunikatsiya 
-++++
-Masofadan o‘qitish uslubiy materiallari?
-====
-#darslik, audio va video darsliklar, on-layn darslar (Internet saxifa), elektron kutubxona, testlar, -mulьtimedia- elektron darslik va albatta axborot texnologiya vositalari innovatsion o‘qitish, lektor o‘qkitish, elektron kutubxona
-====
-masofadan o‘qitish, lektor o‘qitish, innovatsion o‘qitish
-====
-multimediya o‘qitish, innovatsion o‘qitish, testlar
-====
-elektron kutubxona 
-++++
-O‘qitishning an’anaviy metodlarini ko‘rsating?
-====
-#Og‘zaki ko‘rgazmali amaliy mashqlar metodi.
-====
-Ko‘rgazmali, mantiqiy, ommaviy metodlari.
-====
-Aralash darslar, bilimlarni mustahkamlash va takrorlash darslari, bilimlarni umumlashtirish darslari.
-====
-Mantiqiy, o‘z-o‘zini nazorat qilish metodlari.
-++++ 
-Eng qadimgi madaniy yodgorliklarni o‘rganishda tayaniladigan uch asosiy manba?
-====
-#Barcha javoblar to‘g‘ri
-====
-Xalq og‘zaki ijodi ashyolari
-====
-Buyuk adiblar, allomalarning ijodiy merosi
-====
-Arxeologik topilmalar 
-++++
-Markaziy Osiyoda shakllangan ilk yozuvlar
-====
-#Eramiz boshida, Xorazm, So‘g‘d, Baqtriya yozuvlari
-====
-Oromiy yozuv, Urxun-Yenisey yozuvi
-====
-Yunon yozuvi, uyg‘ur yozuvi 
-++++
-Pedagogika tarixi fanining metodologik asosi
-====
-#barcha javoblar to‘g‘ri
-====
-1-Prezident I.A.Karimov asarlari
-====
-Falsafa fani qonuniyatlari
-====
-Buyuk ajdodlarimiz pedagogik qarashlari, islom ta‘limoti
-++++ 
-Yunon tarixchisi Gerodotning «Tarix» kitobida qadimgi ajdodlarimiz bolaga nimalarni o‘rgatgani xabar qilinadi ?
-====
-#Barcha javoblar to‘g‘ri
-====
-Bolalikdan jasurlik
-====
-Besh yoshidan 20 yoshgacha otda yurish, kamon otish
-====
-Suzish, qilichbozlik, savod 
-++++
-«Avesto» to‘liq kitob sifatida shakllandi
-====
-#Eramizdan oldin I asrda
-====
-Eramizdan oldin VII asrda
-====
-Eramizning III asrda
-====
-Urug‘chilik davrida 
-++++
-«Avesto»da olg‘a surilgan eng muhim falsafiy-pedagogik g‘oya
-====
-#Ezgu fikr, ezgu kalom, ezgu amal 
-====
-Barcha javoblar to‘g‘ri
-====
-Ezgu fikr, ezgu amal 
-====
-Ezgu amal 
-++++
-Islom ta‘limotiga ko‘ra musulmon kishisi amal qilishi lozim bo‘lgan beshta farz:
-====
-#Barcha javoblar to‘g‘ri
-====
-Allohning borligiga iymon keltirish
-====
-Besh vaqt namoz o‘qish
-====
-Zakot berish, ro‘za tutish 
-++++
-«Qur‘on» kishilarni nimaga undaydi ?
-====
-# Tenglik, birodarlikka, Tinch-totuv yashashga, ezgulikka, Ilm-ma‘rifatni egallashga
-====
-Tenglik, birodarlikka
-====
-Tinch-totuv yashashga, ezgulikka
-====
-Ilm-ma‘rifatni egallashga 
-++++
-Islomda bilim nimaning mezoni hisoblanadi ?
-====
-#Aqliy kamolotning
-====
-Jismoniy kamolotning
-====
-Xulq-odab qoidalarining
-====
-Ilm-ma‘rifatning
-++++ 
-«Qur‘on»da insonda tarkib topishi kerak bo‘lgan oliy xislatlar sifatida ko‘rsatilgan:
-====
-#sabr-toqat, sadoqat
-====
-Ishonch, e‘tiqod, shirinsuxanlik
-====
-Shijoat, yaxshilish qilish
-====
-Barcha javoblar to‘g‘ri 
-++++
-Tasavvur ta‘limotida ko‘rsatilgan inson kamoloti bosqichlari:
-====
-#Shariat, tariqat, ma‘rifat, haqiqat, saodat
-====
-Shariat, tariqat
-====
-Tariqat, ma‘rifat
-====
-Haqiqat, saodat 
-++++
-Qaysi davr hadisshunoslik rivojida oltin davr hisoblanadi ?
-====
-#VIII-IX asrlar
-====
-X asr
-====
-VII asr 
-====
-XV asr 
-++++
-Xoja Bahovuddin Naqshband ta‘limoti bayon etilgan asarlari:
-====
-# Dil ba yoru dast ba kor»
-====
-Hayot 
-====
-Najot
-====
-«Dalil al-oshiqin» 
-++++
-Yaqin va O‘rta Sharqda uyg‘onish davrini ko‘rsating.
-====
-#IX-XVI asrlar
-====
-VI-VII asrlar
-====
-VII-XII asrlar
-====
-X-XVIII asrlar 
-++++
-Xorun ar-Rashid va uning o‘g‘li Ma‘mun davrida qaerlarda donishmandlik uylari ochildi 
-====
-#Bog‘dodda va Xorazmda
-====
-Bag‘dodda
-====
-Buxoroda
-====
-Xorazmda 
-++++
-Markaziy Osiyodagi eng qadimgi yozma ma‘rifiy yodgorliklar nomini ko‘rsating.
-====
-#Avesto , Urxun Yenise bitigi va pandnoma asarlar
-====
-«Urxun Yenisey» bitigi
-====
-M. Qoshg‘ariyning «Devonu lug‘atit turk» asari
-====
-Yusuf Xos Xojibning «Qutadg‘u bilik», A.Yugnakiyning «Hibat ul-haqoyiq» asarlari 
-++++
-Sharq uyg‘oniy davrida ilm-fan rivojlanishining uch yo‘nalishini ko‘rsating
-====
-#Matematika-tabiyot yo‘nalishi – 1-yo‘nalish ,Ijtimoiy-falsafiy yo‘nalish – 2-yo‘nalish Ta‘limiy-axloqiy yo‘nalish – 3-yo‘nalish
-====
-Matematika-tabiyot yo‘nalishi – 1-yo‘nalish, Ijtimoiy yo‘nalish – 2-yo‘nalish,Ta‘limiy yo‘nalish – 3-yo‘nalish
-====
-Ijtimoiy, Ta‘limiy va falsafiy yo‘nalish 
-====
-Ta‘limiy,axloqiy ijtimoiy yo‘nalish 
-++++
-Abu Nasr Farobiyning pedagogik ahamiyatga molik asarlarini ko‘rsating
-====
-# «Fozil shahar kishilari», «Ilmlarning kelib chiqishi», «Metafizikaga sharh
-====
-«Fozil shahar kishilari»
-====
-«Ilmlarning kelib chiqishi»
-====
-«Metafizikaga sharh» 
-++++
-Komil insonga xos o‘n ikki tug‘ma xislatni Farobiy qaysi asarida ko‘rsatib o‘tgan
-====
-#«Fozil shahar kishilari»
-====
-«Baxt-saodatga erishuv haqida»
-====
-«Aql ma‘nolari to‘g‘risida»
-====
-«Ilmlarning kelib chiqishi» 
-++++
-Farobiy insonda go‘zal fazilatlarni qanday hosil qilish mumkinligini ta‘kidlagan ?
-====
-#Ta‘lim-tarbiya berish yo‘li bilan
-====
-Mustaqil o‘rganish bilan
-====
-Yod olish bilan
-====
-Majbur qilish yo‘li bilan 
-++++
-Abu Rayhon Beruniyning pedagogik qarashlari bayon etilgan asarlarini aniqlang.
-====
-#Qadimgi xalqlardan qolgan yodgorliklar, «Hindiston», «Geodeziya»
-====
-«At-tafhim», «Saydona»
-====
-«Xorazmning Mashhur kishilari»
-++++  
-Beruniyning ilmiy bilimlarni egallash yo‘llari, usullari haqidagi fikrlari:
-====
-# O‘quvchini zeriktirmaslik, Faqat bir fanni o‘rgatavermaslik (almashlab o‘qitish)Bilimlarni uzviy, izchil, qiziqarli, ko‘rgazmali bayon etish
-====
-O‘quvchini zeriktirmaslik
-====
-Faqat bir fanni o‘rgatavermaslik (almashlab o‘qitish)
-====
-Bilimlarni uzviy, izchil, qiziqarli, ko‘rgazmali bayon etish 
-++++
-Abu Ali Ibn Sinoning pedagogik qarashlari bayon etilgan asarlar qatorini ko‘rsating?
-====
-# «Ash-shifo» va «An-Najot»
-====
-«Donishnoma», «Ash-shifo»
-====
-«Tib qonunlari», «Hay ibn Yaqzon»
-====
-«An-Najot» 
-++++
-Abu Ali Ibn Sino birinchi bo‘lib qaysi tarbiya tizimini yaratdi ?
-====
-#Jismoniy tarbiya
-====
-Aqliy tarbiya 
-====
-Axloqiy tarbiya 
-====
-Mehnat tarbiyasi 
-++++
-Pedagogik ahamiyatga molik «Qutadg‘u bilig» asaridagi personajlar qatorini aniqlang.
-====
-#Kuntug‘di, Oyto‘ldi,Uzg‘urmish, O‘g‘dulmish 
-====
-Kuntug‘di, Oyto‘ldi
-====
-Uzg‘urmish, O‘g‘dulmish 
-====
-Xizmatkorlar 
-++++
-Yusuf Xos Xojibning «Qutadg‘u bilig» asarida markaziy o‘rinda qanday ijtimoiy vazifa turadi ?
-====
-# O‘quv va bilimlilikni ulug‘lash,Ilm-ma‘rifatli kishilarni qadrlashva Jaholat, nodonlik, ilmsizlikni qoralash
-====
-O‘quv va bilimlilikni ulug‘lash
-====
-Ilm-ma‘rifatli kishilarni qadrlash
-====
-Jaholat, nodonlik, ilmsizlikni qoralash 
-++++
-«Qutadg‘u bilig»dagi insonni kamolotga yetkazuvchi muhim uch omil ko‘rsatilgan qatorni aniqlang.
-====
-#Aqliy, axloqiy, jismoniy kamolot
-====
-Aqliy kamolot ruxiy kamolot, mehnat.
-====
-Aqliy,axloqiy va Ma‘naviy kamolot 
-++++
-Kaykovusning «Qobusnoma» asarida yoshlar saqlanishi lozim bo‘lgan axloqiy sifatlar.
-====
-# Ko‘zni yomon nazardan, qo‘lni yomon ishdan saqlash,Tilni yomon ko‘zdan saqlash,Ta‘ma qilmaslik
-====
-Ko‘zni yomon nazardan, qo‘lni yomon ishdan saqlash
-====
-Tilni yomon ko‘zdan saqlash
-====
-Ta‘ma qilmaslik 
-++++
-Az-Zamaxshariyning pedagogik ahamiyatga molik asarlari qatorini ko‘rsating.
-====
-#«O‘git va nasihatlarning oltin shodalari» va «So‘zga ustalik asoslari»
-====
-«Nozik iboralar»
-====
-«So‘zga ustalik asoslari» 
-++++
-Umar Hayyomning tarbiyaning maqsadi qanday maqsadga qaratilishi lozim deb hisoblangan
-====
-#Sog‘lom fikrli va O‘tkir zehnli kishini tarbiyalashga qaratilishi kerak
-====
-Ziyrak aqlni
-====
-O‘tkir zehnli kishini tarbiyalashga qaratilishi kerak 
-++++
-Shayx Najmiddin Kubroning pedagogik g‘oyalari ifodalangan asarining nomini ko‘rsating.
-====
-#«Odob qoidalari»
-====
-«Zahobiya»
-====
-«Ayn al-hayot» 
-====
-«Fi al-adab» 
-++++
-Muslihiddin Sa‘diyning pedagogik qarashlari bayon etilgan asarlar nomini ko‘rsating.
-====
-#«Guliston» Bo‘ston.
-====
-«Havotim»
-====
-«Bo‘ston» 
-++++
-«Amir Temur o‘gitlari»dagi o‘git-nasihatlar qanday tarbiyaviy sifatlarga bag‘ishlangan ?
-====
-#Adolat va adolatsizlik haqida,Shirinsuxanlik, davlatni idora etish haqida va b.
-====
-So‘z va dushmanlik haqida
-====
-Shirinsuxanlik, davlatni idora etish haqida va b. 
-++++
-Ulug‘bek madrasasida va rasadxonasida ilmiy tadqiqot bilan shug‘ullangan mashhur olimlarni ko‘rsating.
-====
-#Qozizoda Rumiy,G‘iyosiddin Jamshid ibn Mas‘ud, Muiniddin Mansur Koshiy Ali Qushchi
-====
-Umar Xayyom, Ulug‘bek.Ali qushchi
-====
-Ulug‘bek, Qozizoda Rumiy, Mashrab.
-++++ 
-Ulug‘bekning jahon faniga ulkan hissa bo‘lib qo‘shilgan asarining nomini aniqlang.
-====
-#«Ziji jadidi Ko‘ragoniy» «Ziji Ulug‘bek» 
-====
-"Zij", "Falakkiyot"
-====
-"AL-Adab al- mufrad" 
-++++
-A.Navoiy «Hayrat ul abror» asarida ilmni qanday baholaydi
-====
-#Inson kamoloti uchun eng zarur fazilat,Insonni, xalqni jaholatdan qutqaruvchi omil
-====
-Insonni, xalqni jaholatdan qutqaruvchi kuch
-====
-Ilm egallash mamlakat uchun kerak 
-++++
-A.Navoiyning o‘qituvchi (mudarris)ning ma‘naviy-axloqiy sifatlari haqidagi fikri uning qaysi asarida bayon etilgan ?
-====
-#«Mahbub ul qulub» 
-====
-«Hayratul abror» 
-====
-«Saddi Iskandariy»
-====
-«Majolis un nafois» 
-++++
-A.Navoiy qobiliyatli inson tarbiyasi haqida qanday fikr bildirgan ?
-====
-#Qobiliyatlini tarbiya qilmaslik zulm va Qobiliyatsizga tarbiya hayf
-====
-Qobiliyatsizga tarbiya hayf
-====
-Ommaviy maktablar ochish kerak 
-++++
-Abdurahmon Jomiyning qaysi asarlari komil insonga ta‘lim-tarbiya berishga, ilm-ma‘rifatni egallashga, yuksak axloqiy sifatlarni targ‘ib etishga bag‘ishlangan ?
-====
-#«Bahoriston», «Tuhfat ul-ahror», «Silsilatus zahab»
-====
-«Haft avrang», «Guliston»
-====
-«Iskandar xiradxonasi»
-====
-«Sabhat ul abror» 
-++++
-Jaloliddin Davoniy «Axloqi Jaloliy» asarida komil insonni qanday sharoitda shakllantirish mumkin deb ko‘rsatadi?
-====
-#Ijtimoiy mavjudot sifatida faqat jamiyatda
-====
-Maktab ta‘lim-tarbiyasi jarayonida
-====
-Oilada
-====
-ko‘chada 
-++++
-Jaloliddin Davoniyning «Axloqi Jaloliy» asari ilmiy-pedagogik jihatdan qanday ahamiyatga ega ?
-====
-#sharq allomalari asarlari qatorida 
-====
-Farobiy asarldari qatorida
-====
-Ibn Sino asarlari qatorida
-====
-Nasriddin Tusiy asarlari qatorida turadi
-++++ 
-Husayn Voiz Koshifiy pedagogika ilmiga dahldor qanday asar yozgan ?
-====
-#«Axloqi Muhsiniy», «Axloqi Karim», «Futuvvatnomai Sultoniy»
-====
-«Javohirnoma»
-====
-«Oynayi Iskandariy»
-====
-«Risolati Hotamia» 
-++++
-Koshifiy ilm egallashning ijtimoiy ahamiyatini qanday tushuntiradi ?
-====
-#Ilm boylik to‘plash uchun emas, yashash uchun zarur va u doimiy saqlanadi, mol-dunyo o‘tkinchidir
-====
-Amalda qo‘llanmaydigan ilm jonsiz tanga o‘xshaydi
-====
-Ilm hayotda sizga doim hamrohdir 
-++++
-Koshifiyning «Axloqi Muhsiniy» asari kimga atab yozilgan 
-====
-#Husayn Boyqaroning o‘g‘li Abulmuhsin Mirzoga
-====
-Husayn Boyqaroga
-====
-Alisher Navoiyga
-====
-barchajavoblar to‘g‘ri 
-++++
-«Axloqi Muhsiniy» tarbiyasi qaysi yo‘nalishga bag‘ishlangan ?
-====
-#Axloqiy tarbiyaga
-==== 
-Jismoniy tarbiyaga
-====
-Aqliy va estetik tarbiyaga
-====
-Iqtisodiy, mehnat tarbiyasiga 
-++++
-Koshifiy qanday kishilarni komil inson deb hisoblaydi ?
-====
-#To‘g‘ri, halol, pok, ilmli, insofli insonni va Odobli, halol, sahovatli insonni
-====
-To‘g‘ri, halol, pok, ilmli, insofli insonni 
-====
-Jismoniy sog‘lom insonni
-====
-halol va ilmli insonni 
-++++
-«Boburnoma» asarida fanning qaysi sohalari xususida fikr yuritilgan ?
-====
-#tarix, geografiya, botanika, etnografiya, pedagogika
-====
-tarix, geografiya
-====
-Ixtiologiya, zoologiya
-====
-Falakiyot 
-++++
-Boburning fikricha, komil inson shaxsini shakllantirishda qaysi omil hal qiluvchi ahamiyat kasb etadi ?
-====
-#Mehnat va mehnatda toblanish 
-====
-Ilmni egallash
-====
-Jismoniy mashqlar
-====
-Ustozlar ta‘lim-tarbiyasi 
-++++
-XVII-XVIII asrlarda Xiva, buxoro, Qo‘qon xonliklari hududlarida ilm, ma‘rifat, Fan va madaniyat rivojiga hissa qo‘shgan olimlar, tarixiy shaxslar:
-====
-#Abdullaxon, Hofiz tanish, Muhammad Balxiy, So‘fi Olloyor, Abulg‘oziy, mushrif, Farog‘iy, Namangoniy
-====
-Koshifiy, Hofiz tanish, Uvaysiy
-====
-Sayid muhammad, Nodira, Mirzo Bedil
-====
-A.Navoiy. A.Jomiy 
-++++
-Shoira Uvaysiy Umarbek o‘rdasida qanday ish bilan mashg‘ul bo‘lgan?
-====
-Shoiralik qilgan 
-====
-#Muallima, xonanda, sozanda
-====
-Sozanda va xonanda 
-====
-Otinoyi 
-++++
-Muhammad Sodiq Qoshg‘ariy tarbiyashunoslikka oid mashhur asarini aniqlang.
-====
-#«Odob as-solihin» («Yaxshi kishilar odobi»)
-====
-«Zubdat al masoyil» («Masalalar qaymog‘i»)
-====
-«Durr al-muzohir» («Xojalar tazkirasi»)
-====
-«Tazkirai xojagon» («Xojalar tazkirasi») 
-++++
-XIX asrning ikkinchi yarmi va XX asr boshlarida Turkistonda musulmon maktablarida ta‘lim tizimi necha toifaga bo‘lingan ?
-====
-#5 toifaga: quyi maktab, xalilxona maktabi, qorixona, o‘rta madrasa (internat), oliy madrasa
-====
-Toifaga bo‘linmagan 
-====
-4 toifaga: quyi, o‘rta, oliy maktab, qorixona
-====
-3 toifaga: quyi, o‘rta, oliy 
-++++
-Musulmon maktablarida ta‘lim qaysi tillarda olib borilgan ?
-====
-#O‘zbek, arab, fors-tojik
-====
-Arab 
-====
-Fors-tojik
-====
-O‘zbek 
-++++
-Markaziy Osiyo Rossiya tomonidan bosib olinganidan so‘ng maktab va madrasalarda qanday o‘zgarishlar yuz berdi?
-====
-#Bosmaxonada chop etilgan darsliklar paydo bo‘ldi va rus tilini o‘qitish joriy qilindi
-====
-Tovush usulida savod o‘rgatish joriy etildi va o‘qituvchilar tayyorlandi
-====
-rus tilini o‘qitish joriy etildi 
-++++
-Turkistonda qizlar maktabini kim, qachon, qaerda tashkil qildi ?
-====
-#1906-1907 o‘quv yilida Urganchda Husayn Qo‘shaev
-====
-1902-1903 o‘quv yilida Xivada Shermuhammad Munis
-====
-1907-1908 o‘quv yilida Xo‘jaylida Mashrab
-====
-Ochilmagan 
-++++
-Xorazmda Yangi usul maktabi qachon ochildi, kim tomonidan ?
-====
-#1904 yilda Urganchda Feruz farmoni bilan
-====
-1904 yilda Husayn Qo‘shaev tomonidan
-====
-1904 yilda Urganchda Komil Xorazmiy tomonidan
-====
-1905 yilda Xivada Yoqub xo‘ja tomonidan
-++++
+O‘yin kompyuterlari
+=====
+#Maxsus vazifalarni bajaruvchi mikroprotsessor asosidagi tizim
+=====
+Ish stoli kompyuterlari
+=====
+Umumiy maqsadli dasturlash tizimi
+++++++++
+
+O‘rnatilgan tizimlarning asosiy xususiyati nima?
+=====
+Yuqori grafik imkoniyatlarga ega bo‘lishi
+=====
+#Maxsus vazifalarni bajarishga mo‘ljallanganligi
+=====
+Doimiy Internetga ulanib ishlashi
+=====
+Faqat dasturchilar tomonidan boshqarilishi
++++++++++++
+
+O‘rnatilgan tizimlar qaysi sohalarda keng qo‘llaniladi?
+=====
+Faqat kompyuter o‘yinlarida
+=====
+#Telekommunikatsiya, avtomobil sanoati, tibbiyot, sanoat avtomatlashtirish
+=====
+Faqat Internet xizmatlarida
+=====
+Faqat matn muharrirlarida
++++++++++++
+
+O‘rnatilgan tizimlar qanday platformalarda ishlaydi?
+=====
+Faqat Windows operatsion tizimida
+=====
+#Maxsus real vaqt tizimlarida (RTOS) yoki apparat platformasida
+=====
+Faqat Linux asosida
+=====
+Faqat mobil operatsion tizimlarda
+++++++++++
+
+Qaysi qurilma o‘rnatilgan tizimga misol bo‘la oladi?
+=====
+Ish stoli kompyuteri
+=====
+#Mikrokontroller asosidagi robot
+=====
+Ofis printer
+=====
+O‘yin konsoli
++++++++++++
+
+O‘rnatilgan tizimlarning muhim parametrlari qaysilar?
+==========
+Katta o‘lchamli operativ xotira va tezkor protsessor
+==========
+#Kam quvvat sarfi, ishonchlilik, real vaqt rejimida ishlash
+=====
+Faqat kuchli grafik ishlov berish
+=====
+Internetga ulanib ishlash
++++++++++++
+
+O‘rnatilgan tizimlar asosan qanday operatsion tizimlardan foydalanadi?
+=====
+Windows va MacOS
+=====
+#Real vaqt operatsion tizimlari (RTOS) va maxsus tizimlar
+=====
+Faqat Android
+=====
+MS-DOS
++++++++++++
+
+Real vaqt tizimlari qanday xususiyatga ega?
+=====
+Vazifalarni istalgan vaqtda bajarishi mumkin
+======
+#Muayyan vaqt oralig‘ida muhim jarayonlarni bajarishi shart
+======
+Faqat sun’iy intellekt tizimlarida ishlaydi
+======
+Faqat katta xotira talab qiladi
++++++++++++
+
+Qaysi qurilma real vaqt tizimi bo‘lishi mumkin?
+======
+Ish stoli kompyuteri
+======
+#Tibbiyot uchun yurak monitori
+======
+O‘yin noutbuki
+======
+Veb-brauzer
+++++++++++++
+
+O‘rnatilgan tizimlarning asosiy komponentlari qaysilar?
+=======
+Faqat dasturiy ta’minot
+=======
+Faqat apparat qurilmalari
+=======
+#Protsessor, xotira, kirish-chiqish interfeyslari, dasturiy ta’minot
+=======
+Printer va skaner
+++++++++++++
+
+Real vaqt operatsion tizimlari qanday ishlaydi?
+======
+#Muayyan vaqt chegarasida muhim jarayonlarni bajaradi
+======
+Faqat ofis dasturlarini ishga tushiradi
+======
+Tasodifiy vaqtlarda vazifalarni bajaradi
+======
+Faqat Linux asosida ishlaydi
+++++++++++++
+
+O‘rnatilgan tizimlarning quvvat sarfi qanday bo‘lishi kerak?
+=======
+#Minimal quvvat sarfi talab qilinadi
+=======
+Juda ko‘p energiya talab qilad
+=======
+Faqat quyosh energiyasidan foydalanadi
+=======
+Quvvat sarfi muhim emas
++++++++++++++
+
+O‘rnatilgan tizimlar qanday xotira turlaridan foydalanadi?
+=======
+#Faqat qattiq diskdan
+=======
+ROM, RAM, Flash xotira
+=======
+Faqat USB fleshka
+=======
+Faqat operativ xotira
++++++++++++++
+
+O‘rnatilgan tizimlar uchun eng muhim omil nima?
+=======
+Ko‘plab dasturlarni bir vaqtning o‘zida ishga tushirish
+=======
+#Xavfsizlik, ishonchlilik va kam quvvat sarfi
+=======
+Internetga doimiy ulanib turish
+=======
+O‘yinga moslashganligi
+++++++++++++++
+
+O‘rnatilgan tizimlarda ishlatiladigan protsessorlar qanday bo‘ladi?
+=======
+Asosan yuqori tezlikda ishlovchi protsessorlar
+=======
+#Maxsus vazifalarga mo‘ljallangan, energiya tejamkor protsessorlar
+=======
+Faqat Intel protsessorlari
+=======
+Faqat 64-bitli protsessorlar
++++++++++++++
+O‘rnatilgan tizimlar uchun qaysi dasturlash tili keng qo‘llaniladi?
+=======
+HTML
+=======
+#C/C++
+=======
+PHP
+=======
+JavaScript
++++++++++++++
+
+O‘rnatilgan tizimlarning ishlash tezligi qanday belgilanadi?
+=======
+Faqat protsessor chastotasi bilan
+=======
+#Yozilgan kod sifati va apparat resurslariga bog‘liq
+=======
+Internet tezligi bilan
+=======
+Faqat operativ xotira hajmi bilan
++++++++++++++
+
+O‘rnatilgan tizimlar uchun qanday operatsion tizim keng tarqalgan?
+=======
+Windows XP
+=======
+#FreeRTOS, VxWorks, QNX
+=======
+MacOS
+=======
+Ubuntu
+++++++++++++
+
+O‘rnatilgan tizimlar qayerda qo‘llaniladi?
+=======
+Smartfon va planshetlarda
+======
+#Tibbiyot uskunalarida, avtomobillarda, sanoat robotlarida
+======
+Faqat mobil ilovalarda
+======
+Faqat superkompyuterlarda
+++++++++++++
+
+O‘rnatilgan tizimlarning asosiy maqsadi nima?
+======
+Ko‘p vazifali umumiy hisoblash tizimi yaratish
+======
+#Maxsus vazifalarni samarali bajarish
+======
+Faqat grafik interfeys yaratish
+======
+Faqat ma’lumotlarni saqlash
+++++++++++++
+
+O‘rnatilgan tizimlarga qo‘yiladigan asosiy talablar qaysilar?
+======
+Yuqori grafik imkoniyatlarga ega bo‘lishi
+======
+#Kam quvvat sarfi, ishonchlilik, real vaqt rejimida ishlash
+======
+Faqat katta xotira hajmiga ega bo‘lishi
+======
+Doimiy Internetga ulanib ishlashi
+++++++++++++
+
+Boshqariluvchi obyekt datchiklari qanday vazifani bajaradi?
+======
+Elektr signallarni kuchaytiradi
+======
+#Tashqi fizikaviy kattaliklarni o‘lchab, elektr signaliga aylantiradi
+======
+Faqat dasturiy ta’minot bilan ishlaydi
+======
+Faqat analog signallarni uzatadi
+++++++++++++
+
+Qaysi qurilma analog-raqam (ADC) o‘zgartirgich vazifasini bajaradi?
+======
+Sensor ekran
+======
+#Mikrokontroller ichidagi ADC moduli
+=====
+USB fleshka
+=====
+Printer
++++++++++++
+
+Raqam-analog (DAC) o‘zgartirgichning vazifasi nima?
+=====
+Analog signalni raqamli signalga aylantirish
+=====
+#Raqamli signalni analog signalga aylantirish
+=====
+Faqat kodni bajarish
+=====
+Elektr energiyasini uzatish
++++++++++++
+
+O‘rnatilgan tizimlarda signallarni uzatuvchi interfeys qanday ishlaydi?
+======
+#Signalni raqamli formatga o‘zgartiradi va uzatadi
+======
+Signalni faqat kuchaytiradi
+======
+Faqat raqamli signallarni qabul qiladi
+======
+Signalni faqat xotirada saqlaydi
+++++++++++++
+
+Analog signallar qanday ma’lumot turi hisoblanadi?
+======
+#Davomli (uzluksiz)
+======
+Diskret (raqamli)
+======
+Matn shaklida
+=======
+Faqat impulsli
+++++++++++++
+
+Raqamli signallar qanday xususiyatga ega?
+======
+#Diskret (uzlukli) qiymatlarga ega bo‘ladi
+======
+Davomli o‘zgaruvchan qiymatlarga ega bo‘ladi
+======
+Faqat kuchaytiruvchi qurilmalar orqali uzatiladi
+======
+O‘z-o‘zidan qayta ishlanadi
+++++++++++++
+
+O‘rnatilgan tizimlarda ishlatiladigan eng keng tarqalgan interfeys turi qaysi?
+=====
+#RS-232, I2C, SPI, UART
+=====
+Bluetooth, Wi-Fi
+=====
+Faqat HDMI
+=====
+Faqat USB
++++++++++++
+
+Boshqariluvchi obyekt datchiklaridan qaysi biri haroratni o‘lchaydi?
+==========
+LDR (yorug‘lik datchigi)
+==========
+#DHT11 (harorat va namlik datchigi)
+==========
+MQ-2 (gaz datchigi)
+==========
+HC-SR04 (ultratovushli datchik)
+++++++++++
+
+I2C interfeysi qanday ishlaydi?
+=====
+Parallel ravishda ma’lumot uzatadi
+======
+#Seriyali ikki simli protokol asosida ishlaydi
+======
+Faqat analog signal uzatadi
+======
+Faqat elektr quvvati uzatadi
++++++++++++
+
+Analog signalni raqamli signalga aylantirishda qanday parametr muhim?
+=====
+#Konvertatsiya tezligi
+=====
+Ekran rangi
+=====
+Dastur versiyasi
+=====
+Xotira hajmi
++++++++++++
+
+SPI interfeysining asosiy xususiyati nima?
+=====
+#Yuqori tezlikda seriyali ma’lumot uzatish
+=====
+Faqat simsiz ulanish orqali ishlash
+=====
+Parallel ma’lumot uzatish
+=====
+Faqat audio signal uzatish
++++++++++++
+
+O‘rnatilgan tizimlarda qaysi interfeys real vaqt rejimida ishlash uchun samarali?
+=====
+USB
+=====
+#SPI
+=====
+HDMI
+=====
+Ethernet
+++++++++++
+
+UART interfeysi qanday ishlaydi?
+==========
+#Asinxron seriyali aloqa orqali
+==========
+Faqat simsiz aloqa uchun ishlatiladi
+==========
+Faqat raqamli signallarni qabul qiladi
+==========
+Elektr energiyasini uzatadi
+++++++++++
+
+Boshqariluvchi obyekt datchiklari qanday signallarni ishlab chiqarishi mumkin?
+=========
+Faqat analog
+=========
+#Analog va raqamli
+=========
+Faqat raqamli
+=========
+Faqat chastotaviy
+++++++++++
+
+O‘rnatilgan tizimlarda qaysi datchik harakatni aniqlash uchun ishlatiladi?
+=========
+#MPU6050 (gyroskop va akselerometr)
+=========
+LM35 (harorat datchigi)
+=========
+MQ-7 (gaz datchigi)
+=========
+DS18B20 (harorat datchigi)
++++++++++
+
+ADC qurilmalari qanday ishlaydi?
+=========
+#Analog signalni raqamli ko‘rinishga o‘tkazadi
+=========
+Raqamli signalni kuchaytiradi
+=========
+Analog signalni saqlaydi
+========
+Signalni filtrlash uchun ishlatiladi
+++++++++
+
+Raqam-analog o‘zgartirgich (DAC) qanday signallarni hosil qiladi?
+=========
+Faqat raqamli
+=========
+#Analog
+=========
+Matnli
+=========
+Faqat impulsli
++++++++++
+Boshqariluvchi obyekt datchiklarining asosiy vazifasi nima?
+==========
+#Tashqi fizik jarayonlarni o‘lchash va ularga javob qaytarish
+==========
+Signalni shifrlash
+==========
+Signalni faqat mustaqil saqlash
+==========
+Faqat tasvir hosil qilish
++++++++++
+
+O‘rnatilgan tizimlarda signallarni uzatuvchi interfeyslarning ahamiyati nimada?
+==========
+#Ma’lumotlarni ishonchli uzatish va qabul qilish
+==========
+Faqat elektr quvvati uzatish
+==========
+Faqat audio signallar bilan ishlash
+==========
+Operatsion tizimlarni yangilash
++++++++++
+
+O‘rnatilgan tizim qurilmalarini boshqarish obyekt bilan qanday vositalar orqali ulanadi?
+==========
+#Datchiklar va aktuatorlar orqali
+======
+Faqat Wi-Fi orqali
+======
+Faqat Bluetooth orqali
+======
+Faqat kabel orqali
+++++++++++++
+
+O‘rnatilgan tizimlarda datchiklar qanday rol o‘ynaydi?
+=====
+#Fizikaviy kattaliklarni o‘lchab, signal shaklida uzatadi
+=====
+Faqat ma’lumot saqlaydi
+=====
+Dastur yozish uchun ishlatiladi
+=====
+Faqat kuchlanishni oshirish uchun ishlatiladi
++++++++++++
+
+Mikrokontrollerning asosiy tarkibiy qismlaridan biri qaysi?
+=====
+Ish stoli kompyuteri
+=====
+#Markaziy protsessor (CPU), xotira, kirish-chiqish portlari
+=====
+Faqat operativ xotira
+======
+O‘yinga moslashtirilgan grafik protsessor
+++++++++++++
+
+O‘rnatilgan tizim protsessorlarining asosiy turlari qaysilar?
+======
+#RISC va CISC protsessorlari
+======
+Faqat x86 protsessorlari
+======
+Faqat grafik protsessorlar
+======
+Faqat ARM protsessorlar
+++++++++++++
+
+Mikrokontroller qanday qurilma?
+==========
+#Protsessor, xotira va kirish-chiqish interfeyslarini o‘z ichiga olgan mustaqil tizim
+==========
+Faqat ma’lumot saqlash uchun ishlatiladi
+==========
+Faqat grafik ishlov berish uchun ishlatiladi
+==========
+Internetga ulanish uchun ishlatiladi
+++++++++++
+
+Mikrokontrollerning xotira turlari qanday?
+==========
+#ROM, RAM va EEPROM 
+==========
+Faqat qattiq disk
+==========
+Faqat flesh xotira
+==========
+Faqat operativ xotira
+++++++++++
+
+O‘rnatilgan tizim protsessorlari ko‘pincha qanday arxitekturaga ega bo‘ladi?
+=====
+#RISC (Reduced Instruction Set Computing)
+=====
+CISC (Complex Instruction Set Computing)
+=====
+Faqat x86 arxitekturasiga ega bo‘ladi
+=====
+Faqat FPGA asosida qurilgan bo‘ladi
+++++++++++
+
+Mikrokontrollerlarning eng mashhur oilalaridan biri qaysi?
+=====
+#AVR, PIC, ARM
+=====
+Intel Core i7
+=====
+AMD Ryzen
+=====
+Nvidia Tegra
+++++++++++
+
+Mikrokontroller qanday dasturlanadi?
+=====
+#Assembly, C, C++ yordamida
+=====
+Faqat HTML va CSS orqali
+=====
+Faqat JavaScript orqali
+=====
+Faqat Windows muhitida
++++++++++++
+
+Mikrokontrollerning asosiy xususiyati nima?
+=====
+#Kam quvvat sarflaydi va maxsus vazifalarni bajaradi
+=====
+Ko‘p dasturlarni bir vaqtning o‘zida ishga tushiradi
+=====
+Faqat katta o‘lchamli operativ xotiraga ega
+=====
+Faqat grafik ishlov berish uchun ishlatiladi
+++++++++++
+
+Mikrokontroller ichidagi ALU (Arithmetic Logic Unit) qanday vazifa bajaradi?
+======
+#Arifmetik va mantiqiy amallarni bajaradi
+======
+Ma’lumotlarni doimiy saqlaydi
+======
+Grafiklarni qayta ishlaydi
+======
+Faqat signal uzatadi
++++++++++++
+
+O‘rnatilgan tizim protsessorlari qanday interfeyslar bilan bog‘lanadi?
+======
+#UART, I2C, SPI, USB
+======
+Faqat HDMI
+======
+Faqat Ethernet
+======
+Faqat Wi-Fi
+++++++++++++
+
+Mikrokontrollerning soat chastotasi nimani belgilaydi?
+=======
+#Protsessor qancha tez ishlashini
+=======
+Qurilmaning fizik o‘lchamini
+=======
+Qancha elektr quvvati talab qilinishini
+=======
+Operativ xotira hajmini
+++++++++++++
+
+Mikrokontrollerlar qanday turdagi operatsion tizimlardan foydalanadi?
+=====
+#RTOS (Real-Time Operating System) yoki yalang‘och apparat tizimi
+=====	
+Faqat Windows OS
+=====
+Faqat Linux OS
+=====
+Faqat Android OS
++++++++++++
+
+Qaysi protsessor turi o‘rnatilgan tizimlarda eng ko‘p qo‘llaniladi?
+==========
+#ARM
+==========
+Intel Xeon
+==========
+AMD Threadripper
+==========
+Nvidia RTX
+++++++++++
+Mikrokontrollerlarning asosiy xususiyati nima?
+======
+#Dasturiy ta’minot va apparat vositalarini birgalikda boshqarish
+======
+Faqat grafik interfeys ishlatish
+======
+Faqat yuqori quvvat sarflash
+======
+Faqat ma’lumot saqlash
+++++++++++++
+
+Mikrokontrollerda kirish-chiqish pinlari nima uchun kerak?
+======
+#Tashqi qurilmalar bilan aloqa o‘rnatish uchun
+======
+Operativ xotira hajmini oshirish uchun
+======
+Protsessor tezligini o‘zgartirish uchun
+======
+Faqat displey boshqarish uchun
+++++++++++++
+
+Mikrokontrollerdagi taymer va sanagichlarning vazifasi nima?
+=====
+#Vaqtni hisoblash va jarayonlarni sinxronlashtirish
+=====
+Operativ xotirani to‘ldirish
+=====
+Faqat grafikni qayta ishlash
+=====
+Faqat dastur yozish uchun
++++++++++++
+
+Mikrokontrollerning asosiy energiya talabi qanday?
+==========
+#Kam quvvat sarfi talab qilinadi
+==========
+Juda ko‘p energiya talab qiladi
+==========
+Faqat quyosh energiyasidan foydalanadi
+=====
+Faqat elektr tarmog‘iga ulangan holda ishlaydi
++++++++++++
+
+Mikrokontroller qaysi sohalarda keng qo‘llaniladi?
+=====
+#Sanoat avtomatlashtirish, avtomobil sanoati, tibbiyot, smart qurilmalar
+=====
+Faqat video o‘yinlar yaratishda
+=====
+Faqat Internet xizmatlarida
+=====
+Faqat superkompyuterlarda
++++++++++++
+
+Uzulish (interruption) nima?
+=====
+#Mikrokontroller ish jarayonini vaqtincha to‘xtatib, muhimroq vazifani bajarish mexanizmi
+=====
+Xotirani tozalash jarayoni
+=====
+Qurilmalarni doimiy ravishda qayta yuklash usuli
+=====
+Elektr energiyasini boshqarish tizimi
++++++++++++
+
+Uzulishning asosiy turlari qanday?
+======
+#Tashqi va ichki uzilishlar
+======
+Faqat tashqi uzilishlar
+======
+Faqat ichki uzilishlar
+======
+Parallel va ketma-ket uzilishlar
+++++++++++++
+
+Uzulishlarga ishlov beruvchi maxsus dastur nima deb ataladi?
+========
+#ISR (Interrupt Service Routine)
+=======
+BIOS
+=======
+RAM boshqaruvchi
+=======
+Multitasking protsessor
++++++++++++++
+
+ISR nima vazifani bajaradi?
+=======
+#Uzulish sodir bo‘lganda, tegishli kodni bajaradi
+=======
+Uzulishlarni butunlay o‘chirib qo‘yadi
+=======
+Qurilmalarni uzluksiz ishlashini ta’minlaydi
+=======
+Faqat protsessor tezligini oshiradi
++++++++++++++
+
+Tashqi qurilmalar qanday qilib uzilish hosil qiladi?
+=======
+#Maxsus signal yuborish orqali
+=======
+Dasturiy ta’minotni o‘zgartirish orqali
+=======
+Elektr quvvatini pasaytirish orqali
+=======
+Internet orqali ma’lumot olish orqali
+++++++++++++
+
+Ichki uzilishlar qanday hosil bo‘ladi?
+=======
+#Taymer, xatolik yoki maxsus dasturiy signal orqali
+=======
+Tashqi qurilmalar signallari orqali
+=======
+Internet orqali uzatish orqali
+=======
+USB orqali ulanadigan qurilmalar orqali
++++++++++++
+
+O‘rnatilgan tizimlarda uzilishlarning asosiy afzalligi nima?
+======
+#Protsessor vaqtini samarali ishlatish
+======
+Faqatgina operativ xotira ishlashini yaxshilash
+======
+Qurilmalarning faqat tez ishlashini ta’minlash
+======
+Xotira sarfini ko‘paytirish
+++++++++++++
+
+Qaysi qurilmalar tashqi uzilish hosil qilishi mumkin?
+======
+#Klaviatura, sensorlar, tarmoq adapterlari
+======
+Faqat protsessor
+======
+Faqat xotira
+======
+Faqat ichki dasturiy ta’minot
+++++++++++++
+
+Uzulishlar qanday usullar bilan ustuvorlikka ega bo‘ladi?
+======
+#Uzulish darajasi yoki apparat ustuvorligi orqali
+======
+Faqat dasturiy ta’minot bilan
+======
+Tarmoq tezligini o‘zgartirish orqali
+======
+Operatsion tizimni qayta yuklash orqali
+++++++++++++
+
+Uzulishlar paytida protsessor qanday ma’lumotlarni saqlaydi?
+======
+#Joriy bajarilayotgan instruktsiya va registr qiymatlarini
+======
+Faqat kod segmentini
+======
+Faqat vaqt belgilarini
+======
+Operativ xotira tarkibini butunlay o‘chiradi
+++++++++++++
+
+Ishlov berishning vaqt ko‘rsatkichlari nimani ta’minlaydi?
+=====
+#Real vaqt rejimida uzilishlarga javob berish imkoniyatini
+=====
+Faqat xotira miqdorini oshirishni
+=====
+Internet tezligini oshirishni
+=====
+Qurilmaning haroratini pasaytirishni
++++++++++++
+
+ISR dasturlarini yozishda eng muhim jihat nima?
+=====
+#Tez bajarilishi va minimal kod ishlatilishi
+=====
+Katta va murakkab kod yozish
+=====
+Juda ko‘p funksiya chaqirish
+=====
+Doimiy ravishda global o‘zgaruvchilarni o‘zgartirish
+++++++++++
+
+Mikrokontrollerlarda uzilishlarni boshqarish uchun nima ishlatiladi?
+=====
+#Interrupt vektor jadvali
+=====
+BIOS
+=====
+Faqat dastur kodlari
+=====
+Operativ xotira
++++++++++++
+
+Uzulish vektori nima?
+======
+#Uzulishlarga ishlov berish uchun mo‘ljallangan manzillar jadvali
+=====
+Qurilmalarning grafik interfeysi
+=====
+Faqat dasturiy ta’minotni ishga tushirish uchun
+=====
+Signal kuchaytiruvchi qurilma
++++++++++++
+
+Qaysi komponent protsessorga uzilish signallarini yuboradi?
+======
+#IRQ (Interrupt Request) liniyalari
+======
+RAM
+======
+Qattiq disk
+======
+LCD display
+++++++++++++
+
+Uzulishlarni qayta ishlash qanday bosqichlardan iborat?
+======
+#Uzulishni aniqlash, uni qayta ishlash va bajarilayotgan vazifaga qaytish
+======
+Faqat yangi dastur yuklash
+======
+Operatsion tizimni o‘zgartirish
+======
+Xotira formatlash
+++++++++++++
+
+Real vaqt rejimida ishlov berish uchun qaysi mexanizm muhim?
+=====
+#Uzilishlarni to‘g‘ri boshqarish va ustuvorlik belgilash
+=====
+Ko‘p operativ xotira ishlatish
+=====
+Faqat internetga ulanish
+=====
+Elektr quvvatini oshirish
++++++++++++
+
+ISR bajarilishida qaysi amallar bajarilishi kerak emas?
+=======
+#Katta hajmli kod ishlatish va uzoq sikllarni bajarish
+=======
+Minimal kod yozish va tez bajarilish
+=======
+Registrlarni saqlash va tiklash
+=======
+Uzulish vektoridan to‘g‘ri foydalanish
++++++++++++++
+
+O‘rnatilgan tizimlarda eng ko‘p qaysi uzilish mexanizmlari ishlatiladi?
+======
+#Vaqtli (timer) va tashqi qurilma uzilishlari
+=====
+Faqat grafik interfeys uzilishlari
+=====
+Faqat Internet orqali keladigan uzilishlar
+=====
+Faqat tasodifiy signallar
+++++++++++
+
+Uzulishlarni to‘g‘ri boshqarish nima uchun muhim?
+======
+#Tizimning barqaror va samarali ishlashini ta’minlash uchun
+======
+Faqat elektr energiyasini tejash uchun
+======
+Faqat xotira hajmini oshirish uchun
+======
+Faqat foydalanuvchi interfeysini yaxshilash uchun
+++++++++++++
+
+Kiritish-chiqarish interfeysi nima?
+======
+#Tashqi qurilmalar bilan o‘rnatilgan tizim o‘rtasida ma’lumot almashish vositasi
+======
+Faqat o‘rnatilgan tizimning operativ xotirasi
+=======
+Dasturlarni saqlash uchun ichki xotira
+=======
+Faqat ekran tasvirini boshqarish tizimi
+++++++++++++
+
+Kiritish-chiqarish interfeysining turlari qaysilar?
+=====
+#Paralel va ketma-ket interfeyslar
+=====
+Faqat Wi-Fi interfeysi
+=====
+Faqat USB interfeysi
+=====
+Faqat qattiq disk bilan ishlovchi interfeys
++++++++++++
+
+O‘rnatilgan tizimlarda ishlatiladigan eng keng tarqalgan ketma-ket interfeys qaysi?
+======
+#UART (Universal Asynchronous Receiver-Transmitter)
+======
+VGA
+======
+HDMI
+=====
+PS/2
++++++++++++
+
+Kiritish/chiqarish qurilmasining kontrolleri nima vazifani bajaradi?
+======
+Qurilma bilan protsessor o‘rtasidagi ma’lumot almashinuvini boshqaradi
+=====
+Faqat xotirani boshqaradi
+=====
+Elektr ta’minotini nazorat qiladi
+=====
+Operatsion tizimni yuklash bilan shug‘ullanadi
++++++++++++
+
+O‘rnatilgan tizimlarda ishlatiladigan asosiy ketma-ket interfeyslar qaysilar?
+======
+#UART, SPI, I2C
+=====
+Faqat HDMI
+=====
+Faqat PCIe
+=====
+Faqat DisplayPort
++++++++++++
+
+Paralel interfeys qanday ishlaydi?
+======
+#0 uzatadi
+======
+Faqat bitta bitni uzatadi
+======
+Faqat simsiz aloqa uchun ishlatiladi
+======
+Faqat audio signal uzatadi
+++++++++++++
+
+USB interfeysi qaysi turga kiradi?
+======
+#Ketma-ket interfeys
+======
+Paralel interfeys
+======
+Analog interfeys
+======
+Faqat simsiz interfeys
+++++++++++++
+
+SPI interfeysi qaysi ma’lumot almashish usuliga asoslangan?
+======
+#Sinxron ketma-ket aloqa
+======
+Asinxron ketma-ket aloqa
+======
+Faqat simsiz aloqa
+======
+Faqat tasvir uzatish
+++++++++++++
+
+Kiritish-chiqarish apparat interfeysi nima uchun kerak?
+=====
+#O‘rnatilgan tizim va tashqi qurilmalar o‘rtasidagi ma’lumot almashuvini ta’minlash uchun
+=====
+Faqat tizimni elektr ta’minoti bilan ta’minlash uchun
+=====
+Operativ xotirani oshirish uchun
+=====
+Faqat grafik tasvirlarni qayta ishlash uchun
++++++++++++
+
+I2C interfeysi qanday xususiyatga ega?
+=====
+#Ikkita sim orqali ko‘p qurilmalar bilan aloqa o‘rnata oladi
+=====
+Faqat bitta qurilma bilan ishlaydi
+=====
+Faqat tezkor ma’lumot uzatish uchun mo‘ljallangan
+=====
+Faqat audio uzatish uchun ishlatiladi
++++++++++++
+
+Tarmoq interfeysining asosiy vazifasi nima?
+=====
+#O‘rnatilgan tizimlarni lokal yoki global tarmoqlarga ulash
+=====
+Faqat qurilmani zaryadlash
+=====
+Faqat ichki xotira bilan ishlash
+=====
+Operatsion tizimni yangilash
++++++++++++
+
+Ethernet interfeysi qanday ma’lumot uzatish usuliga asoslangan?
+=====
+#Simli aloqa
+=====
+Simsiz aloqa
+=====
+Faqat infraqizil aloqa
+=====
+Faqat ultratovush signallari
++++++++++++
+
+O‘rnatilgan tizimlarda ishlatiladigan simsiz interfeyslar qaysilar?
+=====
+#Wi-Fi, Bluetooth, Zigbee
+=====
+Faqat HDMI
+=====
+Faqat USB
+=====
+Faqat DisplayPort
++++++++++++
+
+Qaysi interfeys mobil aloqa vositalarida keng qo‘llaniladi?
+=====
+#Bluetooth
+=====
+VGA
+=====
+RS-232
+=====
+LPT
++++++++++++
+
+CAN interfeysi qayerda keng qo‘llaniladi?
+==========
+#Avtomobil elektronikasi va sanoat avtomatlashtirishida
+==========
+Faqat ofis kompyuterlarida
+==========
+Faqat televizorlarda
+==========
+Faqat mobil telefonlarda
+++++++++++
+
+GPIO nima uchun ishlatiladi?
+==========
+#Umumiy maqsadli kiritish/chiqarish signallarini boshqarish uchun
+==========
+Faqat ma’lumot saqlash uchun
+==========
+Faqat elektr ta’minoti uchun
+==========
+Faqat video signal uzatish uchun
+++++++++++
+
+RS-232 interfeysi qaysi turga kiradi?
+=====
+#Ketma-ket interfeys
+=====
+Paralel interfeys
+==========
+Faqat simsiz interfeys
+=====
+Faqat audio interfeys
+++++++++++
+
+Kiritish-chiqarish interfeyslarining muhim xususiyatlari qaysilar?
+=====
+#Ma’lumot uzatish tezligi, ulanish turi va ishonchliligi
+=====
+Faqat interfeys uzunligi
+=====
+Faqat elektr quvvat sarfi
+=====
+Faqat dasturiy ta’minot bilan mosligi
++++++++++++
+
+USB interfeysining asosiy afzalliklari qaysilar?
+=====
+#Yuqori tezlikda ma’lumot uzatish va universal ulanish
+=====
+Faqat quvvat manbai sifatida ishlatilishi
+=====
+Faqat grafik interfeys
+=====
+Faqat audio signal uzatish
+++++++++++
+
+O‘rnatilgan tizimlar qaysi interfeyslar orqali internetga ulanadi?
+=======
+#Ethernet, Wi-Fi, LTE
+=======
+Faqat HDMI
+=======
+Faqat USB
+=======
+Faqat RS-232
+++++++++++++++
+
+O‘rnatilgan tizimlar uchun operatsion tizimlarning asosiy vazifasi nima?
+==========
+#Dasturlarni boshqarish va tizim resurslarini samarali taqsimlash
+=====
+Faqat grafik interfeys taqdim etish
+=====
+Faqat internetga ulanishni ta’minlash
+=====
+Faqat apparat qurilmalarni boshqarish
+++++++++++++++++
+
+O‘rnatilgan tizimlar uchun operatsion tizimlarning muhim talablari qaysilar?
+=====
+#Resurslarni samarali boshqarish, real vaqt rejimida ishlash va ishonchlilik
+=====
+Faqat grafik interfeysning mavjudligi
+=====
+Faqat katta hajmdagi xotira talab qilish
+=====
+Faqat foydalanuvchilar uchun qulaylik yaratish
++++++++++++++++++
+
+O‘rnatilgan tizimlarda ishlatiladigan eng mashhur real vaqt operatsion tizimlari (RTOS) qaysilar?
+==========
+#FreeRTOS, VxWorks, QNX
+==========
+Windows XP, MacOS, Ubuntu
+=========
+Faqat Linux
+=========
+Faqat Android
++++++++++++++++
+
+Monolit operatsion tizim arxitekturasi qanday ishlaydi?
+========
+#Barcha tizim xizmatlari yadro ichida bajariladi
+========
+Har bir dastur alohida yadroni ishlatadi
+========
+Har bir xizmat mustaqil modullar sifatida ishlaydi
+========
+Faqat apparat bilan bog‘langan tizim
++++++++++++++++
+
+Monolit yadrolarning asosiy afzalligi nima?
+=========
+#Yuqori ishlash tezligi va kam kechikish
+=========
+Juda kichik hajmda bo‘lishi
+=========
+Barcha xizmatlarning alohida ishlashi
+=========
+Faqat ma’lumot saqlashni ta’minlashi
++++++++++++++++
+Monolit yadro operatsion tizimiga misol keltiring.
+========
+#Linux
+========
+Windows NT
+========
+FreeRTOS
+========
+MacOS
++++++++++++++
+
+Modulli arxitektura qanday ishlaydi?
+======
+#Operatsion tizim komponentlari mustaqil modullar shaklida bo‘ladi
+========
+Barcha kodlar yadroga joylashgan bo‘ladi
+========
+Faqat mijoz-server modelidan foydalanadi
+========
+Faqat grafik interfeysni ta’minlaydi
+++++++++++++++
+Modulli arxitekturaning afzalligi nimada?
+=========
+#Tizimni oson sozlash va kengaytirish mumkin
+=========
+Har doim tez ishlaydi
+=========
+Faqat real vaqt tizimlari uchun ishlatiladi
+=========
+Faqat Linux yadrosi uchun mo‘ljallangan
++++++++++++++++
+Modulli arxitekturaga misol keltiring.
+========
+#Linux yadrosi
+========
+DOS
+========
+Windows 3.1
+========
+FreeDOS
+++++++++++++++
+
+Mikroyadro nima?
+========
+#Minimal xizmatlarni ta’minlovchi yadro arxitekturasi
+========
+Operatsion tizim yadrosining eng katta versiyasi
+========
+Faqat grafik interfeysni ta’minlaydi
+========
+Faqat Windows operatsion tizimlari uchun ishlatiladi
+++++++++++++++
+Mikroyadro arxitekturasining asosiy afzalligi nima?
+=======
+#Tizimning ishonchliligi va xavfsizligini oshiradi
+=======
+Operatsion tizimni sekinlashtiradi
+=======
+Faqat katta hajmdagi xotira talab qiladi
+=======
+Faqat mijoz-server modelini qo‘llab-quvvatlaydi
++++++++++++++
+Mikroyadro operatsion tizimlariga misollar qaysilar?
+========
+#QNX, Minix, L4
+========
+MS-DOS, FreeDOS
+========
+Windows 98, MacOS
+========
+FreeBSD, Solaris
++++++++++++++
+
+Mijoz-server modeli qanday ishlaydi?
+=======
+#Xizmatlar alohida jarayonlar sifatida bajariladi va yadroga minimal yuk tushadi
+=======
+Barcha xizmatlar yadro ichida bajariladi
+=======
+Faqat bitta mijoz ishlashi mumkin
+=======
+Faqat foydalanuvchilar uchun mo‘ljallangan
+++++++++++++++
+Qaysi operatsion tizim mijoz-server modeli asosida ishlaydi?
+=====
+#QNX
+=====
+MS-DOS
+=====
+Windows 95
+=====
+FreeDOS
++++++++++++
+
+Monolit va mikroyadro tizimlari o‘rtasidagi asosiy farq nima?
+=======
+#Monolit tizimda barcha xizmatlar yadro ichida bajariladi, mikroyadroda esa xizmatlar alohida jarayonlar sifatida ishlaydi
+========
+Monolit tizimda xizmatlar alohida ishlaydi, mikroyadroda esa barchasi bir joyda bajariladi
+========
+Mikroyadroda faqat real vaqt rejimida ishlash mumkin
+========
+Monolit tizim faqat Windows uchun ishlatiladi
+++++++++++++++
+Qaysi operatsion tizim mikroyadro arxitekturasidan foydalanadi?
+=======
+#QNX
+=======
+DOS
+=======
+Windows XP
+========
+Linux
++++++++++++++
+
+Mikroyadro tizimida xizmatlarning ishlashi qanday tashkil etiladi?
+======
+#Har bir xizmat alohida jarayon sifatida ishlaydi
+======
+Barcha xizmatlar yagona yadro ichida joylashadi
+======
+Faqat bitta jarayon ishlashi mumkin
+======
+Operatsion tizim grafik interfeyssiz ishlaydi
++++++++++++++
+Monolit yadroda xatoliklar qanday ta’sir qiladi?
+========
+#Barcha tizimga ta’sir qiladi va tizim ishdan chiqishi mumkin
+========
+Xatolik faqat bitta jarayonga ta’sir qiladi
+========
+Hech qanday ta’sir qilmaydi
+========
+Faqat tarmoq xizmatlariga ta’sir qiladi
+++++++++++++++
+
+Mikroyadro tizimida xatoliklar qanday ta’sir qiladi?
+========
+#Xatolik faqat muayyan xizmatga ta’sir qiladi
+========
+Butun tizim ishdan chiqadi
+========
+Barcha jarayonlar to‘xtaydi
+========
+Faqat grafik interfeys o‘chadi
++++++++++++++++
+
+Operatsion tizimlar uchun eng muhim omillar qaysilar?
+=========
+#Ishonchlilik, tezlik, xavfsizlik va samaradorlik
+=========
+Faqat grafik interfeys
+=========
+Faqat tarmoq xizmatlari
+=========
+Faqat xotira hajmi
+++++++++++++++
+
+Arduino nima?
+=======
+#Ochiq kodli apparat va dasturiy ta’minot platformasi
+=======
+Faqat grafik interfeysga ega bo‘lgan dastur
+=======
+Ish stoli kompyuterlari uchun mo‘ljallangan operatsion tizim
+======
+Faqat robototexnikada ishlatiladigan dastur
+++++++++++++
+
+Arduino loyihalarida ishlatiladigan asosiy dasturlash tili qaysi?
+==========
+#C/C++
+==========
+Python
+==========
+Java
+==========
+HTML
+++++++++++
+
+Arduino platalarida ishlatiladigan asosiy mikrokontroller qaysi?
+=====
+#Atmel (Microchip) AVR va ARM Cortex-M
+=====
+Intel Core i7
+=====
+AMD Ryzen
+=====
+NVIDIA Tegra
++++++++++++
+
+Arduino tizimi qanday dasturiy ta’minot yordamida dasturlanadi?
+=====
+#Arduino IDE
+=====
+Microsoft Word
+=====
+Adobe Photoshop
+=====
+Windows Explorer
++++++++++++
+
+Arduino platalari qanday interfeys orqali kompyuterga ulanadi?
+==========
+#USB
+==========
+HDMI
+==========
+VGA
+==========
+Ethernet
+++++++++++
+
+Arduino Uno platasida qaysi mikrokontroller ishlatiladi?
+==========
+#ATmega328P
+==========
+STM32F103
+==========
+ESP8266
+==========
+PIC16F877A
++++++++++++
+
+Arduino Mega 2560 platasining asosiy xususiyati nima?
+==========
+#Ko‘proq kirish-chiqarish pinlariga ega
+==========
+O‘ta kichik o‘lchamga ega
+==========
+Faqat Wi-Fi bilan ishlaydi
+==========
+Faqat quvvatni boshqarish uchun ishlatiladi
+++++++++++
+
+Qaysi Arduino modeli Wi-Fi bilan integratsiyalashgan?
+=====
+#Arduino Uno WiFi
+=====
+Arduino Mega
+=====
+Arduino Nano
+=====
+Arduino Due
++++++++++++
+
+Arduino Due platasining asosiy afzalligi nima?
+==========
+#ARM Cortex-M3 yadrosiga ega bo‘lishi
+=====
+Faqat LEDlarni boshqarish imkoniyati
+=====
+Juda kichik o‘lchamga ega bo‘lishi
+=====
+Faqat ma’lumot uzatish uchun ishlatilishi
++++++++++++
+
+Arduino Nano qanday ishlaydi?
+=====
+#Arduino Uno'ning ixcham versiyasi bo‘lib, USB orqali dasturlanadi
+=====
+Faqat Wi-Fi moduli sifatida ishlaydi
+=====
+Faqat grafik interfeys uchun ishlatiladi
+=====
+Ko‘p yadroli protsessorni o‘z ichiga oladi
++++++++++++
+
+Arduino LilyPad qayerda ishlatiladi?
+=====
+#Kiyim-kechakka tikiladigan elektron tizimlarda
+=====
+Sun’iy yo‘ldosh boshqaruvida
+=====
+Smartfon protsessorlarida
+=====
+Faqat televizor pultlarida
++++++++++++
+
+Arduino platalari qanday asosiy apparat interfeyslariga ega?
+=====
+A) Digital va analog pinlar, UART, SPI, I2C
+=====
+B) Faqat USB
+=====
+C) Faqat HDMI
+=====
+D) Faqat Bluetooth
++++++++++++
+
+O‘rnatilgan tizimlar uchun ARM arxitekturasining asosiy afzalligi nima?
+=====
+#Kam quvvat sarfi va yuqori unumdorlik
+=====
+Juda qimmat bo‘lishi
+=====
+Faqat katta hajmdagi xotira talab qilishi
+=====
+Faqat katta hajmdagi grafik interfeyslarni qo‘llab-quvvatlashi
+++++++++++++
+
+ARM arxitekturasiga asoslangan qaysi mikrokontrollerlar Arduino platalarida ishlatiladi?
+==========
+#STM32, SAM3X8E
+=========
+Intel Pentium
+=========
+AMD Ryzen
+=========
+NVIDIA GPU
++++++++++
+
+Arduino platalarida qanday dastur yozish mumkin?
+==========
+#Mikrokontrollerga mos keladigan har qanday C/C++ kodi
+==========
+Faqat grafik interfeys dasturlari
+==========
+Faqat Linux operatsion tizimlarini boshqarish dasturlari
+==========
+Faqat JavaScript bilan ishlaydigan dasturlar
++++++++++
+
+Arduino IDE qanday tilda yozilgan?
+=========
+#Java
+=========
+Python
+=========
+HTML
+=========
+Bash Script
++++++++++
+
+Arduino platalarida qaysi dasturlash modeli ishlatiladi?
+=========
+#Loop va Setup funksiyalaridan iborat
+=========
+Faqat obyektga yo‘naltirilgan dasturlash
+=========
+Faqat server-klient modeli
+=========
+Faqat voqealarga asoslangan dasturlash
++++++++++
+
+Arduino orqali qanday sensorlarni ulash mumkin?
+=========
+#Temperaturali, bosimli, namlik, harakat datchiklari
+=========
+Faqat video kameralar
+=========
+Faqat ovoz chiqaruvchi qurilmalar
+=========
+Faqat Wi-Fi modular
++++++++++
+
+O‘rnatilgan tizimlarda ARM protsessorlarining muhim xususiyati nima?
+==========
+#Kam quvvat iste’mol qilishi va yuqori unumdorlik
+==========
+Faqat ma’lumotlarni saqlash uchun ishlatilishi
+==========
+Juda katta hajmda bo‘lishi
+==========
+Faqat grafik ishlov berish uchun ishlatilishi
+++++++++++
+
+Arduino bilan ishlovchi ARM protsessorli mikrokontrollerlar qaysilar?
+==========
+#STM32F103, SAM3X8E
+==========
+Intel Core i5, Core i7
+==========
+AMD Ryzen 9, Ryzen 7
+==========
+NVIDIA Tegra X1
+++++++++++
+
+O‘rnatilgan tizimlarda tashxislash (diagnostika) nima?
+==========
+#Tizimning ishlashini tekshirish va muammolarni aniqlash jarayoni
+==========
+Faqat tizimga dastur yozish jarayoni
+==========
+Faqat apparat vositalarni ishlab chiqarish jarayoni
+==========
+Qurilmalarning elektr quvvati iste’molini hisoblash jarayoni
++++++++++
+
+O‘rnatilgan tizimlarni tashxislashda qaysi vositalar ishlatiladi?
+=========
+#Oscilloscope, Logic Analyzer, JTAG debuggers
+=========
+Faqat multimetr
+=========
+Faqat LED indikatorlar
+=========
+Faqat operatsion tizim
++++++++++
+
+O‘rnatilgan tizimlarda eng keng tarqalgan dasturiy tashxislash vositasi qaysi?
+=========
+#GDB (GNU Debugger)
+=========
+Microsoft Word
+=========
+Photoshop
+=========
+VLC Media Player
++++++++++
+
+Logic Analyzer qaysi maqsadda ishlatiladi?
+=========
+#Raqamli signallarni tahlil qilish uchun
+=========
+Elektr toki kuchini o‘lchash uchun
+=========
+Analog signallarni tahlil qilish uchun
+=========
+Faoliyat vaqtini o‘lchash uchun
++++++++++
+
+JTAG debuggers qanday ishlaydi?
+=========
+#Mikrokontroller ichki registrlari va dasturlarini tahlil qilish uchun
+=========
+Faqat elektr toki o‘lchash uchun
+=========
+Faqat USB orqali ulanish uchun
+=========
+Faqat tarmoq signallarini tekshirish uchun
+++++++++++
+
+O‘rnatilgan tizimlarda real vaqt tashxislash qanday amalga oshiriladi?
+=========
+#Real vaqt operatsion tizimlari va maxsus diagnostika vositalari orqali
+=========
+Faqat LED indikatorlar yordamida
+=========
+Faqat elektr kuchlanishini o‘lchash orqali
+=========
+Barcha tizimni o‘chirib, qayta yoqish orqali
++++++++++
+
+Debugging nima?
+==========
+#Dasturdagi xatolarni topish va ularni tuzatish jarayoni
+==========
+Faqat kod yozish jarayoni
+==========
+Qurilmalarni elektr tarmog‘iga ulash jarayoni
+=====
+Qurilmalarning fizik o‘lchamlarini hisoblash jarayoni
++++++++++++
+
+Mikrokontrollerlarni tashxislashda Breakpoint nima uchun ishlatiladi?
+=====
+#Dastur bajarilishini muayyan joyda to‘xtatish uchun
+=====
+Dastur kodining hajmini oshirish uchun
+=====
+Qurilmaning ishlash vaqtini pasaytirish uchun
+=====
+Signalni kuchaytirish uchun
++++++++++++
+
+O‘rnatilgan tizimlarni tashxislashning eng muhim bosqichi qaysi?
+==========
+#Muammoni aniqlash va analiz qilish
+==========
+Faqat kod yozish
+==========
+Faqat quvvatni o‘lchash
+==========
+Tizimni qayta o‘rnatish
+++++++++++
+
+Tashxislash jarayonida real vaqt operatsion tizimlari qanday ahamiyatga ega?
+==========
+#Ular tizimning ishlash vaqtini aniq o‘lchash imkonini beradi
+==========
+Faqat ma’lumotlarni saqlash uchun ishlatiladi
+==========
+Hech qanday ahamiyatga ega emas
+==========
+Faqat apparat sozlamalarini saqlash uchun ishlatiladi
+++++++++++
+
+Mikrokontrollerlar uchun eng keng tarqalgan tashxislash interfeysi qaysi?
+==========
+#JTAG va SWD
+=====
+HDMI
+=====
+VGA
+=====
+Ethernet
++++++++++++
+
+Debugger nima?
+=====
+#Dastur bajarilishini nazorat qiluvchi va xatolarni topishga yordam beruvchi vosita
+=====
+Qurilmalarni quvvat bilan ta’minlovchi qurilma
+=====
+Qurilmalarni faqat ishlab chiqarish jarayoni
+=====
+Tizimlarni qayta yoqish jarayoni
+++++++++++
+
+O‘rnatilgan tizimlarning tashxislash jarayonida “Watchdog Timer” qanday ishlaydi?
+=====
+#Tizim ishdan chiqsa, uni avtomatik qayta yuklash orqali muammoni bartaraf etadi
+=====
+Elektr quvvatini nazorat qiladi
+=====
+Internet ulanishini tekshiradi
+=====
+Faqat dasturiy ta’minotni yuklaydi
++++++++++++
+
+Mikrokontrollerlarni tashxislashda oscilloscope nima uchun ishlatiladi?
+=====
+#Analog va raqamli signallarni ko‘rish va tahlil qilish uchun
+=====
+USB interfeysini tekshirish uchun
+=====
+Faqat tarmoq tezligini o‘lchash uchun
+=====
+Faqat dasturlarni yozish uchun
+++++++++++
+
+Qaysi debugging usuli eng kam invaziv hisoblanadi?
+=====
+#JTAG va SWD interfeyslari orqali debugging
+=====
+Print statement debugging
+=====
+LED blinking debugging
+=====
+Dasturiy emulyatsiya orqali debugging
++++++++++++
+
+Mikrokontroller tizimlarida "Watchpoint" nima?
+=====
+#Muayyan xotira maydoni o‘zgarishini kuzatish imkonini beruvchi debugging texnikasi
+=====
+Elektr quvvati nazorati tizimi
+=====
+Qurilma haroratini o‘lchovchi datchik
+=====
+Internet signalini kuchaytiruvchi moslama
++++++++++++
+
+Tashxislash jarayonida “Stepping” nima?
+==========
+#Dastur bajarilishini bosqichma-bosqich tekshirish jarayoni
+==========
+Signal kuchaytirish usuli
+==========
+Elektr manbaini nazorat qilish texnikasi
+==========
+Faqat kodni kompilyatsiya qilish
+++++++++++
+
+Dasturiy debugging vositalari qaysilar?
+==========
+#GDB, OpenOCD, Keil uVision
+==========
+Excel va Word
+==========
+Photoshop va AutoCAD
+==========
+Windows Media Player
+++++++++++
+
+Logic Analyzer yordamida qanday signallar tahlil qilinadi?
+==========
+#Raqamli signallar
+==========
+Faqat audio signallar
+==========
+Faqat video signallar
+==========
+Faqat elektr kuchlanishi
+++++++++++
+
+Debugging jarayonida qaysi usul eng samarali hisoblanadi?
+==========
+#JTAG debugging va real vaqt monitoring
+==========
+Faqat LED yordamida tekshirish
+==========
+Faqat qayta yuklash
+==========
+Qurilmani almashtirish
+++++++++++
+
+O‘rnatilgan tizimlarning dasturiy ta’minoti qanday qismlardan iborat?
+==========
+#Tizimli, amaliy va instrumental dasturiy ta’minot
+==========
+Faqat tizimli dasturiy ta’minot
+==========
+Faqat amaliy dasturiy ta’minot
+==========
+Faqat instrumental dasturiy ta’minot
+++++++++++
+
+Tizimli dasturiy ta’minotning asosiy vazifasi nima?
+=====
+#Tizimning apparat vositalari bilan ishlashini ta’minlash
+=====
+Faqat foydalanuvchi dasturlarini yaratish
+=====
+Faqat internetga ulanadigan ilovalarni boshqarish
+=====
+Faqat grafik interfeysni yaratish
++++++++++++
+
+O‘rnatilgan tizimlar uchun eng mashhur tizimli dasturiy ta’minot turlaridan biri qaysi?
+=====
+#Real vaqt operatsion tizimlari (RTOS)
+=====
+Photoshop
+=====
+Microsoft Office
+=====
+VLC Media Player
++++++++++++
+
+Amaliy dasturiy ta’minotning asosiy vazifasi nima?
+==========
+#Foydalanuvchi va tizim ehtiyojlariga mos xizmatlarni ta’minlash
+==========
+Faqat operatsion tizimni boshqarish
+==========
+Faqat apparat vositalarni boshqarish
+==========
+Faqat internetga ulanishni ta’minlash
+++++++++++
+
+Instrumental dasturiy ta’minot nima uchun ishlatiladi?
+==========
+#Dasturlarni ishlab chiqish va sinovdan o‘tkazish uchun
+==========
+Faqat ma’lumotlarni tahlil qilish uchun
+==========
+Faqat internetdan foydalanish uchun
+==========
+Faqat audio va video fayllarni qayta ishlash uchun
+++++++++++
+
+Qaysi dasturiy ta’minot turi operatsion tizim tarkibiga kiradi?
+==========
+#Drayverlar, yadro va tizimli kutubxonalar
+==========
+Faqat grafik dasturlar
+==========
+Faqat ofis dasturlari
+==========
+Faqat antivirus dasturlari
+++++++++++
+
+Real vaqt operatsion tizimlari (RTOS) qanday tizimlar uchun zarur?
+==========
+#Vaqt kritik bo‘lgan o‘rnatilgan tizimlar uchun
+==========
+Oddiy ofis kompyuterlarida ishlash uchun
+==========
+Faqat multimedia tizimlari uchun
+==========
+Faqat mobil qurilmalar uchun
+++++++++++
+
+Tizimli dasturiy ta’minotning tarkibiy qismlaridan biri bo‘lgan bootloaderning vazifasi nima?
+==========
+#Operatsion tizimni yuklash
+==========
+Faqat internetga ulanish
+==========
+Faqat xotirani boshqarish
+==========
+Faqat grafik interfeysni yaratish
+++++++++++
+
+O‘rnatilgan tizimlarning dasturiy ta’minoti qanday til yordamida yoziladi?
+==========
+#C/C++, Python, Assembly
+==========
+Faqat HTML
+==========
+Faqat Microsoft Excel
+=====
+Faqat JavaScript
+++++++++++
+
+Dasturiy ta’minotni yaratish bosqichlari qanday?
+=====
+#Talablarni aniqlash, loyihalash, dasturlash, sinov va integratsiya, foydalanish
+=====
+Faqat kod yozish
+=====
+Faqat ma’lumotlarni saqlash
+=====
+Faqat grafik interfeys yaratish
++++++++++++
+
+O‘rnatilgan tizimlar uchun dasturiy ta’minot loyihalashda qaysi jihatlar muhim?
+=====
+#Xotira samaradorligi, tezkorlik va energiya iste’moli
+=====
+Faqat grafik dizayn
+=====
+Faqat foydalanuvchi interfeysi
+=====
+Faqat internetga ulanish tezligi
++++++++++++
+
+Amaliy dasturiy ta’minotga misol bo‘ladigan dasturlar qaysilar?
+=====
+#Signalni qayta ishlash, avtomatlashtirish va monitoring dasturlari
+=====
+Faqat antivirus dasturlari
+=====
+Faqat matn muharrirlari
+=====
+Faqat video pleerlar
+++++++++++
+
+Tizimli dasturiy ta’minotning yadro (kernel) qismi qanday vazifani bajaradi?
+=====
+#Resurslarni boshqarish va jarayonlarni taqsimlash
+==========
+Faqat rasm va videolarni qayta ishlash
+==========
+Faqat internet tarmog‘ini boshqarish
+==========
+Faqat matn tahrirlash
+++++++++++
+
+Dasturiy ta’minotni yaratishda testlashning asosiy maqsadi nima?
+==========
+#Xatolarni aniqlash va tuzatish
+==========
+Faqat kod yozish tezligini oshirish
+==========
+Faqat grafik interfeys yaratish
+==========
+Faqat internetga ulanishni ta’minlash
+++++++++++
+
+Dasturiy ta’minotning texnik xizmat ko‘rsatish bosqichi nimani anglatadi?
+==========
+#Dasturiy ta’minotni yangilash va xatolarni bartaraf etish
+==========
+Faqat dastur kodini o‘chirish
+==========
+Faqat dastur grafik interfeysini o‘zgartirish
+==========
+Faqat kompyuterning quvvat sarfini kamaytirish
+++++++++++
+
+Embedded Linux nima?
+==========
+#O‘rnatilgan tizimlar uchun moslashtirilgan Linux distributivi
+==========
+Faqat mobil telefonlar uchun tizim
+==========
+Faqat Windows muhitida ishlaydi
+==========
+Faqat shaxsiy kompyuterlar uchun operatsion tizim
+++++++++++
+
+FreeRTOS nima?
+==========
+#Ochiq kodli real vaqt operatsion tizimi
+==========
+Matn muharriri
+==========
+Internet tarmog‘ini boshqaruvchi dastur
+==========
+Grafik dastur
+++++++++++
+
+Dasturiy ta’minotning interfeys qismi qanday maqsadda ishlatiladi?
+=====
+#Foydalanuvchilar va tizim o‘rtasida aloqa o‘rnatish uchun
+=====
+Faqat xotira boshqarish uchun
+=====
+Faqat protsessor yuklanishini tekshirish uchun
+=====
+Faqat internetga ulanish uchun
++++++++++++
+
+Tizimli dasturiy ta’minotning muhim komponentlaridan biri bu...
+==========
+#Drayverlar
+==========
+Faqat video pleer
+==========
+Faqat ofis dasturlari
+==========
+Faqat audio dasturlar
+++++++++++
+
+Kompilyator qanday vazifani bajaradi?
+==========
+#Dastur kodini mashina kodiga aylantirish
+==========
+Faqat internet tarmog‘ini nazorat qilish
+==========
+Faqat matn tahrirlash
+==========
+Faqat video yaratish
+++++++++++
+
+O‘rnatilgan tizimlarda aktuator nima vazifani bajaradi?
+=====
+Ma’lumotni saqlaydi
+=====
+Signalni o‘lchaydi
+=====
+#Elektr signalni mexanik yoki fizik harakatga aylantiradi
+=====
+Dastur kodini bajaradi
++++++
+
+Aktuatorlarga misol qaysi?
+=====
+Sensor
+=====
+ADC
+=====
+#Servo motor
+=====
+EEPROM
++++++
+
+PWM (Pulse Width Modulation) nima uchun ishlatiladi?
+=====
+Ma’lumot uzatish uchun
+=====
+Xotira boshqarish uchun
+=====
+#Quvvat va tezlikni boshqarish uchun
+=====
+Interrupt yaratish uchun
++++++
+
+PWM asosan qaysi qurilmalarni boshqarishda ishlatiladi?
+=====
+Xotira
+=====
+Sensor
+=====
+#Motor va LED
+====
+Protsessor
++++++
+
+Embedded tizimlarda watchdog reset qachon yuz beradi?
+=====
+Normal ishlaganda
+=====
+#Dastur javob bermaganda
+=====
+Sensor ishlaganda
+=====
+Quvvat ko‘payganda
++++++
+
+Bare-metal dasturlash nima?
+=====
+RTOS bilan ishlash
+=====
+Linux ishlatish
+=====
+#Operatsion tizimsiz to‘g‘ridan-to‘g‘ri apparatda dasturlash
+=====
+Virtual muhit
++++++
+
+Bare-metal tizimlarning afzalligi nimada?
+=====
+Katta grafik imkoniyat
+=====
+#Minimal kechikish va yuqori tezlik
+=====
+Internet qo‘llab-quvvatlashi
+=====
+Katta xotira
++++++
+
+RTOS va bare-metal o‘rtasidagi asosiy farq nima?
+=====
+Xotira turi
+=====
+#Task boshqaruvi va rejalashtirish mavjudligi
+=====
+Sensor turi
+=====
+Quvvat manbai
++++++
+
+Embedded tizimlarda polling nima?
+=====
+Uzilish mexanizmi
+=====
+#Qurilma holatini doimiy tekshirib turish usuli
+=====
+Xotira boshqaruvi
+=====
+Reset mexanizmi
++++++
+
+Pollingning asosiy kamchiligi nimada?
+=====
+Murakkablik
+=====
+#Protsessor vaqtini samarasiz ishlatishi
+=====
+Xotira ko‘pligi
+=====
+Dastur yozish qiyinligi
++++++
+
+Interrupt-based boshqaruvning afzalligi nimada?
+=====
+Doimiy tekshiruv
+=====
+#Protsessor vaqtini tejaydi
+=====
+Sekin ishlaydi
+=====
+Katta xotira talab qiladi
++++++
+
+Edge-triggered interrupt nimani anglatadi?
+=====
+Doimiy signal
+=====
+#Signal o‘zgarish lahzasida ishlaydi
+=====
+Faqat past darajada
+=====
+Faqat yuqori darajada
++++++
+
+Level-triggered interrupt xususiyati?
+=====
+O‘zgarishda ishlaydi
+=====
+#Signal darajasi saqlanib turganda faol bo‘ladi
+=====
+Faqat bir marta ishlaydi
+=====
+Faqat timer uchun
++++++
+
+Embedded tizimlarda debounce nima?
+=====
+Xotira tozalash
+=====
+#Mexanik tugma shovqinini filtrlash
+=====
+Signal kuchaytirish
+=====
+Quvvat boshqarish
++++++
+
+Debounce qaysi qurilmada muhim?
+=====
+ADC
+=====
+UART
+=====
+#Tugmalar (button)
+=====
+EEPROM
++++++
+
+Cross-compilation nima?
+=====
+Bir xil platformada
+=====
+#Bir platformada yozib, boshqa platforma uchun kompilyatsiya qilish
+=====
+Virtual mashina
+=====
+Emulyatsiya
++++++
+
+Cross-compiler nimaga kerak?
+=====
+Grafika uchun
+=====
+#Embedded protsessor uchun kod yaratish
+=====
+Sensor o‘qish uchun
+=====
+Internet uchun
++++++
+
+Embedded tizimlarda latency nimani bildiradi?
+=====
+Tezlik
+=====
+Xotira
+=====
+#Hodisaga javob berish kechikishi
+=====
+Chastota
++++++
+
+Jitter tushunchasi nimani anglatadi?
+=====
+O‘rtacha tezlik
+=====
+#Vaqt javobining o‘zgaruvchanligi
+=====
+Xotira xatosi
+=====
+Signal kuchayishi
++++++
+
+Deterministik tizim nima?
+=====
+Tasodifiy ishlaydi
+=====
+#Bir xil sharoitda bir xil javob beradi
+=====
+Internetga bog‘liq
+=====
+Grafik tizim
+
++++++
