@@ -496,7 +496,7 @@ export default function Page() {
         <div>
           <div className="page-header">
             <div className="form-header-card">
-              <div className="form-title">Innovatsiya Integratsiya</div>
+              <div className="form-title">Ornatilgan Tizimlar</div>
               <div className="form-subtitle">
                 Bilimingizni sinab ko&apos;ring — {totalCount} ta savol, 4 xil rejim
               </div>
