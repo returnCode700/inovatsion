@@ -18,18 +18,24 @@ type Mode = "form" | "shuffle" | "smart" | "fast" | null
 function parseQuestions(raw: string): RawQ[] {
   return raw
     .trim()
-    .split("++++")
+    // ++++ yoki undan ko'p + lar bilan bo'lish
+    .split(/\+{4,}/g)
     .map((block) => {
       const parts = block
         .trim()
-        .split("====")
+        // ==== yoki undan ko'p = lar bilan bo'lish
+        .split(/={3,}/g)
         .map((s) => s.trim())
-        .filter((s) => s.length > 0)
+        .filter(Boolean)
+
       if (parts.length < 2) return null
+
       const question = parts[0]
       const options = parts.slice(1)
+
       let correct = ""
       const wrong: string[] = []
+
       options.forEach((opt) => {
         if (opt.startsWith("#")) {
           correct = opt.slice(1).trim()
@@ -37,7 +43,9 @@ function parseQuestions(raw: string): RawQ[] {
           wrong.push(opt)
         }
       })
+
       if (!correct || wrong.length === 0) return null
+
       return { q: question, correct, wrong } as RawQ
     })
     .filter((x): x is RawQ => Boolean(x))
