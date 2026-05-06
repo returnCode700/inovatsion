@@ -59,12 +59,12 @@ function categorize(qData: RawQ): Mode3Meta {
   if (cLower.includes("parallel")) {
     const withParallel = allOpts.filter((o) => o.toLowerCase().includes("parallel"))
     if (withParallel.length === 1) {
-      return { cat: "parallel", tip: '💡 Yagona "parallel" so\'zi bor variant — to\'g\'ri javob' }
+      return { cat: "uzun", tip: '💡 uzun  — to\'g\'ri javob' }
     } else {
       const correctWords = qData.correct.trim().split(/\s+/).length
       const maxParallelWords = Math.max(...withParallel.map((o) => o.trim().split(/\s+/).length))
       if (correctWords >= maxParallelWords) {
-        return { cat: "parallel", tip: '💡 "Parallel" bor variantlar ichida eng uzuni — to\'g\'ri javob' }
+        return { cat: "uzun javob", tip: '💡 " eng uzuni — to\'g\'ri javob' }
       }
     }
   }
